@@ -16,7 +16,7 @@
 
 ***
 
-* [🧙‍♂️ PROJECT FINAL CONSIODERATIONS](project-final-consioderations/README.md)
-  * [📱 Contact & Support](project-final-consioderations/contact-and-support.md)
-  * [🗃️ Available Data Sources](project-final-consioderations/available-data-sources.md)
-  * [⚖️ Legal Disclaimer](project-final-consioderations/legal-disclaimer.md)
+* [🧙‍♂️ PROJECT FINAL CONSIDERATIONS](project-final-considerations/README.md)
+  * [📱 Contact & Support](project-final-considerations/contact-and-support.md)
+  * [🗃️ Available Data Sources](project-final-considerations/available-data-sources.md)
+  * [⚖️ Legal Disclaimer](project-final-considerations/legal-disclaimer.md)
