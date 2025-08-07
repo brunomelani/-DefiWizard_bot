@@ -6,11 +6,6 @@ description: 🧙‍♂️ @DefiWizard_bot
 
 ***
 
-* ❔Why @DefiWizard\_bot?\
-  Understands why @DefiWizard\_bot is the go-to tool for DeFi enthusiasts, offering real-time insights, multi-chain support, and AI-driven precision.
-
-***
-
 * 🪛Core Capabilities\
   Explore the bot’s powerful features, including token metadata extraction, multi-timeframe TA, market intelligence, and social sentiment analysis.
 
@@ -26,13 +21,13 @@ description: 🧙‍♂️ @DefiWizard_bot
 
 ***
 
-* 🏅Subscription Tiers\
-  Review the flexible pricing plans tailored for individual traders, active degens, and teams, with options for every level of engagement.
+* 🚨Beta Phase & Payments\
+  Get details on the beta phase trial, payment methods, and upcoming automated payment integration via Telegram’s native wallet.
 
 ***
 
-* 🚨Beta Phase & Payments\
-  Get details on the beta phase trial, payment methods, and upcoming automated payment integration via Telegram’s native wallet.
+* 🏅Subscription Tiers\
+  Review the flexible pricing plans tailored for individual traders, active degens, and teams, with options for every level of engagement.
 
 ***
 
@@ -41,14 +36,22 @@ description: 🧙‍♂️ @DefiWizard_bot
 
 ***
 
-* &#x20;🗃 Data Sources
+*   &#x20;🗃 **Data Sources**
+
+    Explore the APIs and platforms powering the bot — including GeckoTerminal, DexScreener, CoinGecko MCP, TwitterAPI.io, and more.
 
 ***
 
-* 🏋️A Living Project\
+* 🧬️ A Living Project\
   See how @DefiWizard\_bot evolves with new tools, APIs, and potential tokenization to stay ahead in the DeFi space.
 
 ***
 
 * 📱Contact & Support\
   Access contact details for support and feedback, including Telegram and upcoming documentation links.
+
+***
+
+*   **⚖️ Legal Disclaimer**
+
+    Important disclaimers about how to interpret insights from @DefiWizard\_bot and where your own responsibility begins.

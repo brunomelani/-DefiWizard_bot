@@ -2,7 +2,7 @@
 description: We all understands that in crypto, on‑chain information is alpha, but...
 ---
 
-# 🧠 Why use Defi-Wizard?
+# ❓ Why use Defi-Wizard?
 
 ## 🧙‍♂️What Makes the Wizard Worthy?
 

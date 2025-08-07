@@ -10,7 +10,7 @@ Request any analysis you need: TA, volume trends, price action, wallet activity,
 
 #### 🌐 Multi‑Chain Command
 
-Gain insights across **Ethereum, Solana, Base, Sui, BNB, XRP, ApeChain**, and over 100+ L1s and L2s — no corner of crypto is out of reach.
+Gain insights across **Ethereum, Solana, Base, Sui, BNB, XRP, ApeChain**, and over 100+ L1s and L2s.
 
 #### 🤖 AI‑Enhanced Intelligence
 

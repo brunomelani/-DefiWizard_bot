@@ -2,7 +2,7 @@
 description: 🧙‍♂️ @DefiWizard_bot can make mistakes. Check important info.
 ---
 
-# ⚠️ Disclaimer
+# ⚖️ Legal Disclaimer
 
 Defi Wizard Bot provides automated technical analysis, market insights, and trading signals through an AI-driven agent swarm. The tools and recommendations shared are generated using real-time data, including on-chain activity, token metrics, and DeFi market indicators. While every effort is made to ensure valuable and accurate information, **this system does not constitute financial advice**.
 
@@ -16,6 +16,6 @@ By using this system, you acknowledge and agree that:
 * The system is fully automated and may contain inaccuracies, data gaps, or misinterpretations.
 * The developers and maintainers of this platform **assume no liability** for any loss or damage resulting from your use of the tool or reliance on its output.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 _**This is a support tool – not a financial advisor.** Use it wisely, validate its insights, and never trade more than you can afford to lose._
 {% endhint %}
