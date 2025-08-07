@@ -7,16 +7,16 @@
 ## 🧙‍♂️ Defi Wizard full content
 
 * [📖 Table of Contents](defi-wizard-full-content/table-of-contents.md)
-* [🔮 Maximizing Your Edge](defi-wizard-full-content/maximizing-your-edge.md)
 * [🚀 Beta Phase](defi-wizard-full-content/beta-phase.md)
+* [🔮 Maximizing Your Edge](defi-wizard-full-content/maximizing-your-edge.md)
 * [⚙️ Core Capabilities](defi-wizard-full-content/core-capabilities.md)
-* [🫂 Sophisticated Architecture](defi-wizard-full-content/sophisticated-architecture.md)
+* [🫂 Explore the Architecture](defi-wizard-full-content/explore-the-architecture.md)
 * [🤹‍♀️ Multi-Chain Mastery](defi-wizard-full-content/multi-chain-mastery.md)
 * [🥇 Subscription Tiers](defi-wizard-full-content/subscription-tiers.md)
-* [🗃️ Available Data Sources](defi-wizard-full-content/available-data-sources.md)
 
 ***
 
-* [🧙‍♂️ PROJECT FINAL CONSIODERATIONS](project-final-consioderations.md)
-* [📱 Contact & Support](contact-and-support.md)
-* [⚖️ Legal Disclaimer](legal-disclaimer.md)
+* [🧙‍♂️ PROJECT FINAL CONSIODERATIONS](project-final-consioderations/README.md)
+  * [📱 Contact & Support](project-final-consioderations/contact-and-support.md)
+  * [🗃️ Available Data Sources](project-final-consioderations/available-data-sources.md)
+  * [⚖️ Legal Disclaimer](project-final-consioderations/legal-disclaimer.md)

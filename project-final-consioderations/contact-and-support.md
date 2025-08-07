@@ -10,7 +10,7 @@ Contact [@BrunoMelani](https://t.me/BrunoMelani) on Telegram to subscribe via di
 
 Join our Telegram community for updates and support, or reach out to dev for inquiries.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: Website and support links will be updated post-beta. Stay tuned!

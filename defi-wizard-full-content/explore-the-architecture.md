@@ -1,10 +1,8 @@
 ---
-description: >-
-  🧙‍♂️ Explore @DefiWizard_bot under the hood and enjoy the view of navigating
-  thru the defi on a v8
+description: 🧙‍♂️ Understands what happens under the hood.
 ---
 
-# 🫂 Sophisticated Architecture
+# 🫂 Explore the Architecture
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Defi Wizard Agent swarm v2.0</p></figcaption></figure>
 
