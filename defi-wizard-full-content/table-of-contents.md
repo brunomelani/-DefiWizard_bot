@@ -12,7 +12,7 @@ Get details on the beta phase trial, payment methods, and upcoming automated pay
 
 ***
 
-## 🔮 <kbd>Maximizing Your Edge</kbd>
+## <kbd>✨Maximizing Your Edge</kbd>
 
 Find tips on crafting effective queries and leveraging insights to optimize trading strategies and uncover opportunities.
 
@@ -42,13 +42,13 @@ Review the flexible pricing plans tailored for individual traders, active degens
 
 ***
 
-## &#x20;🗃 <kbd>**Data Sources**</kbd>
+## <kbd>📂</kbd><kbd>**Data Sources**</kbd>
 
 Explore the APIs and platforms powering the bot — including GeckoTerminal, DexScreener, CoinGecko MCP, TwitterAPI.io, and more.
 
 ***
 
-## <kbd>🧬️ A Living Project</kbd>
+## <kbd>🧬️A Living Project</kbd>
 
 See how @DefiWizard\_bot evolves with new tools, APIs, and potential tokenization to stay ahead in the DeFi space.
 
