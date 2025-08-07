@@ -3,10 +3,10 @@
 * [🧙‍♂️ Welcome to Defi Wizard](README.md)
   * [❓ Why use Defi-Wizard?](readme/why-use-defi-wizard.md)
   * [🧞 What You Get?](readme/what-you-get.md)
-  * [📖 Table of Contents](readme/table-of-contents.md)
 
 ## 🧙‍♂️ Defi Wizard full content
 
+* [📖 Table of Contents](defi-wizard-full-content/table-of-contents.md)
 * [⚙️ Core Capabilities](defi-wizard-full-content/core-capabilities.md)
 * [🫂 Sophisticated Architecture](defi-wizard-full-content/sophisticated-architecture.md)
 * [🤹‍♀️ Multi-Chain Mastery](defi-wizard-full-content/multi-chain-mastery.md)

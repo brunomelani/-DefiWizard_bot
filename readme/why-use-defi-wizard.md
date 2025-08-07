@@ -4,7 +4,9 @@ description: We all understands that in crypto, on‑chain information is alpha,
 
 # ❓ Why use Defi-Wizard?
 
-## What Makes the Defi-Wizard Worthy?
+<figure><img src="../.gitbook/assets/defiwizardbanner.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<h2 align="center"><kbd>What the hell makes Defi-Wizard Worthy?</kbd></h2>
 
 Trying to keep up with **thousands of daily new tokens**, **hundreds of chains**, and **a flood of narratives** every day it’s a **mental warfare.**
 
@@ -12,15 +14,11 @@ Doing proper due diligence on even a handful of tokens daily is already exhausti
 
 ***
 
-🧙‍♂️That’s where **Defi Wizard’s** steps in.
+**🧙‍♂️That’s where Defi Wizard’s steps in.**
 
 With a single query, the Wizard filters through the noise and cuts straight to what matters surfacing critical insights, risk factors, and potential “alpha” **before you even decide if it’s worth your attention**.
 
 Whatever you're scanning for, the Wizard **streamlines your hunt** and **saves your energy**, so you can trade smarter and enjoy the process of hunting gems again.
-
-***
-
-🧙‍♂️[**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot) was built by a degen trader for other degen traders aiming out of the trenches.  Whether you’re lonely wolf sniping meme coins or leading a crypto ops team. Powered by a **swarm of AI agents**, the Wizard does what no single person can: process it all, filter the noise, and surface what matters for you and your telegram group members.
 
 ***
 

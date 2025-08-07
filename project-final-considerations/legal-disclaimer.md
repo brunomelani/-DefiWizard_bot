@@ -19,3 +19,10 @@ By using this system, you acknowledge and agree that:
 {% hint style="danger" %}
 _**This is a support tool – not a financial advisor.** Use it wisely, validate its insights, and never trade more than you can afford to lose._
 {% endhint %}
+
+{% hint style="info" %}
+**🔒 Not Open‑Source**\
+This space is designed to showcase our advanced capabilities and invite you to be part of the DeFi revolution.
+
+This bot’s architecture is proprietary. Please refrain from copying and or repurposing it.                                            &#x20;
+{% endhint %}
