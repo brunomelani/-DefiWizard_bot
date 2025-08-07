@@ -1,8 +1,8 @@
 ---
 description: >-
-  🧙‍♂️ @DefiWizard_bot is currently in Beta. You can try it out with 5 daily
-  usage credits, completely free. It's your chance to experience the power of
-  our AI agent swarm before full launch.
+  @DefiWizard_bot is currently in Beta. You can try it out with 5 daily usage
+  credits, completely free. It's your chance to experience the power of our AI
+  agent swarm before full launch.
 ---
 
 # 🚀 Beta Phase

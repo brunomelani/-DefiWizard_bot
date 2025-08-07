@@ -1,8 +1,8 @@
 ---
 description: >-
-  🧙‍♂️ @DefiWizard_bot isn’t just another Tg  scanner, it’s your tactical
-  command center in the middle of  DeFi PVP battlefield. If you want to win,
-  you’ve got to prompt like a general, not a tourist.
+  @DefiWizard_bot isn’t just another Tg scanner, it’s your tactical command
+  center in the middle of  DeFi PVP battlefield. If you want to win, you’ve got
+  to prompt like a general, not a tourist.
 ---
 
 # 🔮 Maximizing Your Edge
