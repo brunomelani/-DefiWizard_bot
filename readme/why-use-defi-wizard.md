@@ -6,7 +6,7 @@ description: We all understands that in crypto, on‑chain information is alpha,
 
 <figure><img src="../.gitbook/assets/defiwizardbanner.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<h2 align="center"><kbd>What the hell makes Defi-Wizard Worthy?</kbd></h2>
+## What makes Defi-Wizard worthy?
 
 Trying to keep up with **thousands of daily new tokens**, **hundreds of chains**, and **a flood of narratives** every day it’s a **mental warfare.**
 
