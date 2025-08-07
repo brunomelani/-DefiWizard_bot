@@ -5,7 +5,7 @@ description: >-
   our AI agent swarm before full launch.
 ---
 
-# 🚀 Beta Phase & Payments
+# 🚀 Beta Phase
 
 ***
 
@@ -25,6 +25,8 @@ To upgrade or extend usage during this period above daily free trial credit, sen
 **Payment Methods**
 
 * **Beta Phase**: Send direct transfers to the dev wallet with crypto for your chosen tier. At this stage you’ll be manually added to the access list.
+
+***
 
 **Coming Soon:**\
 Automated payment options via:
