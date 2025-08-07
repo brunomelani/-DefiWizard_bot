@@ -4,7 +4,9 @@ description: '🧙‍♂️ @DefiWizard_bot leverages a robust, multi-agent syst
 
 # 🪛 Core Capabilities
 
-{% file src="../.gitbook/assets/DefiWizard Engine .mp4" %}
+<figure><img src="../.gitbook/assets/Defi-Wizard-prototype.png" alt=""><figcaption><p>Defi Wizard Agent Swarm v1</p></figcaption></figure>
+
+{% file src="../.gitbook/assets/DefiWizard Engine  (1).mp4" %}
 
 *   **Token Metadata Extraction**:
 

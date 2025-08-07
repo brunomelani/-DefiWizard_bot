@@ -4,7 +4,7 @@ description: 🧙‍♂️ @DefiWizard_bot
 
 # 🫂 Sophisticated Architecture
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Defi Wizard Agent swarm v2.0</p></figcaption></figure>
 
 #### 1. The Frontliner
 

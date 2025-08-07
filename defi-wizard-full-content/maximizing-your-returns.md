@@ -8,7 +8,7 @@ To extract maximum value from [**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot
 
 1. **Craft Targeted Queries**:
    * Specify token names, tickers, or contract addresses (e.g., “$BOBO on Base”, “0x123… on Ethereum”).
-   * Request specific analyses (e.g., “$SOL TA on 4h”, “Trending tokens on Sui”).
+   * Request specific analyses (e.g., “$PEPE on 12h”, ).
 2. **Leverage Enriched Metadata**:
    * Use The Frontliner’s metadata (market cap, volume, chain) to frame queries for deeper insights.
    * Example: “Analyze $WIF on Solana with Twitter sentiment” to combine fundamentals and social signals.
