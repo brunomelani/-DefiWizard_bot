@@ -5,14 +5,14 @@ description: >-
   specialized agents for unparalleled efficiency.
 ---
 
-# 🫂 Architecture: A Masterful Swarm
+# 🫂 Sophisticated Architecture
 
 #### 1. The Frontliner
 
 * **Purpose**: Collects foundational token metadata to streamline analysis.
 * **Function**:
-  * Resolves token identities (name, ticker, or contract address) and validates network compatibility (e.g., Ethereum’s 42-char 0x, Solana’s Base58, Sui’s 66-char 0x).
-  * Fetches market cap, 24h volume, creation time, social links, and chain data using GeckoTerminal and DexScreener APIs.
+  * Resolves token identities (name, ticker, or contract address) and validates network compatibility.&#x20;
+  * Fetches market cap, 24h volume, creation time, social links, and chain data via multiple APIs to enrich master orchestrator agent with enough context.
   * Outputs enriched JSON (e.g., token\_id, chain, mc, volume, socials) for the orchestrator.
 * **Impact**: Ensures sub-agents start with high-quality, structured data, boosting efficiency and accuracy.
 
@@ -29,28 +29,34 @@ description: >-
 
 #### 3. Specialized Sub-Agents
 
-* **CoinGecko MCP Subagent**:
+* **CEX Subagent**:
   * Retrieves CEX market data (prices, volume, trends).
-  * Manages 30/min rate limits for efficiency.
-* **GeckoTerminal DEX Subagent**:
-  * Extracts DEX token/pool data across 200+ networks and 1,600+ DEXs.
-  * Batches up to 30 tokens per call for scalability.
+  * Manages blue chips and bigger coins present on Coingecko.
+*   **DEX Subagent**:
+
+    * Extracts DEX token/pool data across 200+ networks and 1,600+ DEXs.
+    * Batches up to 30 tokens per call for scalability.
+
+
 * **TA Agent Master**:
-  * Conducts multi-timeframe technical analysis using Syve.ai (Ethereum/Base) and GeckoTerminal OHLCV.
+  * Conducts multi-timeframe technical analysis using 3 sub agents to process 3 different OLHCv timeframes in multiple API calls simultaneously  (Ethereum/Base) up to 2500 candles and Other chains OHLCV limited to 1000 candles or 6months data.
   * Delegates timeframes to sub-agents for parallel processing.
-* **Twitter X Agent**:
-  * Analyzes Twitter activity for sentiment, influencer patterns, and community quality.
-  * Flags risks like giveaway spam or bot accounts.
+*   **Twitter X Agent**:
+
+    * Analyzes Twitter activity for sentiment, influencer patterns, and community quality.
+    * Flags risks like giveaway spam or bot accounts.
+
+
 * **Future Sub-Agents** (In Development):
   * Token Security Specialist: Contract audits via GoPlus API.
   * Social Sentiment Analyst: Multi-platform narrative analysis.
 
-#### 4. Workflow Precision
+#### 🔮Workflow Precision
 
 * **Metadata Enrichment**: The Frontliner’s initial data ensures sub-agents focus on specialized tasks, reducing redundancy.
-* **Memory Management**: Uses memoryBufferWindow nodes to maintain user session context.
+* **Memory Management**: Uses last 5 messages context to maintain user session context.(to be improved)
 * **Error Handling**: Implements retries and fallbacks for robust API interactions.
-* **Rate Limit Optimization**: Coordinates requests to respect API limits (e.g., 30/min for GeckoTerminal, CoinGecko).
+* **Rate Limit Optimization**: Coordinates requests to respect API limits and avoid errors.
 
 #### Example Workflow
 
@@ -61,4 +67,4 @@ description: >-
    * GeckoTerminal: DEX pool data and liquidity.
    * TA Agent: Price action on 1h and 4h timeframes.
    * Twitter X Agent: Sentiment and community signals.
-4. Orchestrator synthesizes results into a Telegram response:text`<b>WIF ($WIF)</b> 📍 Solana • 🦄 DEX: $0.02 | 💰 MC: $20M 💹 <b>Market Intelligence:</b> Volume surged 30% in 24h. 🛡️ <b>Risk Level:</b> High 📊 <b>Liquidity:</b> $1M | 👥 <b>Holders:</b> 10,000 🧙‍♂️ <b>Technical Analysis:</b> 4h RSI overbought, potential pullback to $0.018. 🌐 <b>Social Intelligence:</b> Strong influencer backing, but watch for pump-and-dump risks. 🎯 <b>Master Assessment:</b> Wait for dip to $0.018, target $0.025. 🧙‍♂️ Powered by @DefiWizard_bot`
+

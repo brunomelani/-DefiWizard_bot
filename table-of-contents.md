@@ -2,7 +2,7 @@
 
 * Why @DefiWizard\_bot?
 * Core Capabilities
-* Architecture: A Masterful Swarm
+* Sophisticated Architecture
 * Multi-Chain Mastery
 * Subscription Tiers
 * Beta Phase & Payments

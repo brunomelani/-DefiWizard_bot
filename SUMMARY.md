@@ -7,7 +7,7 @@
 
 * [❔ Why @DefiWizard\_bot?](defi-wizard-full-content/why-defiwizard_bot.md)
 * [🪛 Core Capabilities](defi-wizard-full-content/core-capabilities.md)
-* [🫂 Architecture: A Masterful Swarm](defi-wizard-full-content/architecture-a-masterful-swarm.md)
+* [🫂 Sophisticated Architecture](defi-wizard-full-content/sophisticated-architecture.md)
 * [🤹‍♀️ Multi-Chain Mastery](defi-wizard-full-content/multi-chain-mastery.md)
 * [🥇 Subscription Tiers](defi-wizard-full-content/subscription-tiers.md)
 * [🚨 Beta Phase & Payments](defi-wizard-full-content/beta-phase-and-payments.md)
