@@ -38,7 +38,7 @@ From Ethereum to Solana, Sui, ApeChain, Base, and **100+ EVMs, L2s, and alt chai
 ## **🧙‍♂️ Wizard Wisdom**
 
 * **"Taming magic internet money**🪄 **one spell at a time.⚡"**
-* **"Through markets and madness — I cast clarity.🔮"**
+* **"Through markets and madness I shall cast clarity.🔮"**
 * **"A data sorcerer on a quest for quantum gains.🚀"**
 * **"Where mortals scroll, I scry.📜"**
 * **"I don’t trade. I conjure.🧙‍♂️"**
