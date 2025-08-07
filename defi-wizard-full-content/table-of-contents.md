@@ -12,7 +12,7 @@ Get details on the beta phase trial, payment methods, and upcoming automated pay
 
 ***
 
-## <kbd>��Maximizing Your Edge</kbd>
+## 🔮 <kbd>Maximizing Your Edge</kbd>
 
 Find tips on crafting effective queries and leveraging insights to optimize trading strategies and uncover opportunities.
 
