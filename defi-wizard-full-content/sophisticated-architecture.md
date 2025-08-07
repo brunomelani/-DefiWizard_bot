@@ -7,6 +7,10 @@ description: >-
 
 # 🫂 Sophisticated Architecture
 
+####
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 #### 1. The Frontliner
 
 * **Purpose**: Collects foundational token metadata to streamline analysis.
@@ -51,7 +55,7 @@ description: >-
   * Token Security Specialist: Contract audits via GoPlus API.
   * Social Sentiment Analyst: Multi-platform narrative analysis.
 
-#### 🔮Workflow Precision
+#### Workflow Precision
 
 * **Metadata Enrichment**: The Frontliner’s initial data ensures sub-agents focus on specialized tasks, reducing redundancy.
 * **Memory Management**: Uses last 5 messages context to maintain user session context.(to be improved)

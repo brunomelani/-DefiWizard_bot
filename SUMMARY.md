@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🧙‍♂️ @DefiWizard\_bot](README.md)
+* [🧙‍♂️ Welcome](README.md)
+  * [📖 Table of Contents](readme/table-of-contents.md)
 * [📖 Table of Contents](table-of-contents.md)
 
 ## 🧙‍♂️ Defi Wizard full content
