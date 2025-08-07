@@ -1,5 +1,5 @@
 ---
-description: '🧙‍♂️ @DefiWizard_bot leverages a robust, multi-agent system to provide:'
+description: '🧙‍♂️ @DefiWizard_bot leverages a robust, multi-agent system:'
 ---
 
 # 🪛 Core Capabilities
@@ -7,6 +7,9 @@ description: '🧙‍♂️ @DefiWizard_bot leverages a robust, multi-agent syst
 <figure><img src="../.gitbook/assets/Defi-Wizard-prototype.png" alt=""><figcaption><p>Defi Wizard Agent Swarm v1</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/DefiWizard Engine  (1).mp4" %}
+
+{% hint style="success" %}
+
 
 *   **Token Metadata Extraction**:
 
@@ -35,3 +38,4 @@ description: '🧙‍♂️ @DefiWizard_bot leverages a robust, multi-agent syst
 * **Orchestrated Insights**:
   * Synthesizes multi-agent outputs into concise, actionable recommendations.
   * Delivers HTML-formatted Telegram responses with clear market positioning and risk levels.
+{% endhint %}

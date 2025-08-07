@@ -21,3 +21,7 @@ To extract maximum value from [**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot
      * **Team Synergy** (Pro Team Tier):
        * Share access with your trading group to coordinate strategies.
        * Allocate daily credits to key members for maximum efficiency.
+
+{% hint style="info" %}
+_**This is a support tool – not a financial advisor.** Use it wisely, validate its insights, and never trade more than you can afford to lose._
+{% endhint %}

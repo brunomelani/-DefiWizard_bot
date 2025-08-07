@@ -16,6 +16,6 @@ This state-of-the-art bot empowers you to stay ahead in the fast-paced DeFi univ
 * **AI-Driven Precision**: A meticulously orchestrated swarm of agents delivers market intelligence, technical analysis, and sentiment data.
 * **Continuous Evolution**: Regular updates with new tools, APIs, and features to keep you at the forefront of DeFi.
 
-<p align="center"><img src=".gitbook/assets/image (1) (1).png" alt=""></p>
-
-_Note: @DefiWizard\_bot is not open-source or intended for forking, copying, or reuse. This README showcases its sophisticated capabilities and invites you to join our mission through our subscription plans._
+{% hint style="info" %}
+&#x20;_@DefiWizard\_bot is not open-source or intended for forking, copying, or reuse. This README showcases its sophisticated capabilities and invites you to join our mission of dominating defi._
+{% endhint %}
