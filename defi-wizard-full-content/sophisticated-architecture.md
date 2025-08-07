@@ -10,64 +10,120 @@ description: >-
 
 ***
 
-#### 1. The Frontliner
+### 🧠 Sophisticated AI Guild Architecture
 
-* **Purpose**: Collects foundational token metadata to streamline analysis.
-* **Function**:
-  * Resolves token identities (name, ticker, or contract address) and validates network compatibility.&#x20;
-  * Fetches market cap, 24h volume, creation time, social links, and chain data via multiple APIs to enrich master orchestrator agent with enough context.
-  * Outputs enriched JSON (e.g., token\_id, chain, mc, volume, socials) for the orchestrator.
-* **Impact**: Ensures sub-agents start with high-quality, structured data, boosting efficiency and accuracy.
+_Also known as the AI Swarm System_
 
-#### 2. @DefiWizard\_bot (Master Orchestrator)
+At the core of **Defi Wizard** is a highly modular **agent swarm architecture**, where each component plays a specialized role. Powered by **n8n**, this system is orchestrated to maximize data quality, minimize latency, and deliver sharp, multi-layered DeFi insights — all within seconds.
 
-* **Purpose**: Coordinates the agent swarm to deliver comprehensive insights.
-* **Function**:
-  * Delegates tasks to sub-agents based on query intent and The Frontliner’s metadata.
-  * Synthesizes results into actionable recommendations.
-  * Formats Telegram responses in HTML for clarity and professionalism.
-* **Key Features**:
-  * Optimizes task allocation to minimize API calls and respect rate limits.
-  * Seamlessly integrates market, technical, and social data.
+***
 
-#### 3. Specialized Sub-Agents
+#### 🧱 1. The Frontliner (Metadata Commander)
 
-* **CEX Subagent**:
-  * Retrieves CEX market data (prices, volume, trends).
-  * Manages blue chips and bigger coins present on Coingecko.
-*   **DEX Subagent**:
+**🔍 Purpose:**\
+Serves as the gateway for resolving any token query, enriching context for downstream agents.
 
-    * Extracts DEX token/pool data across 200+ networks and 1,600+ DEXs.
-    * Batches up to 30 tokens per call for scalability.
+**🛠️ Core Functions:**
 
+* Resolves token identity via **name, ticker, or contract address**
+* Validates **network compatibility** across 100+ chains
+* Fetches token metadata: **market cap, 24h volume, creation date, socials, and chain info**
+* Aggregates data from **GeckoTerminal** and **DexScreener**
+* Outputs a clean, structured **JSON payload** for the Master Orchestrator
 
-* **TA Agent Master**:
-  * Conducts multi-timeframe technical analysis using 3 sub agents to process 3 different OLHCv timeframes in multiple API calls simultaneously  (Ethereum/Base) up to 2500 candles and Other chains OHLCV limited to 1000 candles or 6months data.
-  * Delegates timeframes to sub-agents for parallel processing.
-*   **Twitter X Agent**:
+**💡 Impact:**\
+Guarantees all downstream agents receive **high-integrity, pre-validated data**, increasing system speed, accuracy, and coherence.
 
-    * Analyzes Twitter activity for sentiment, influencer patterns, and community quality.
-    * Flags risks like giveaway spam or bot accounts.
+***
 
+#### 🧙‍♂️ 2. @DefiWizard\_bot (Master Orchestrator)
 
-* **Future Sub-Agents** (In Development):
-  * Token Security Specialist: Contract audits via GoPlus API.
-  * Social Sentiment Analyst: Multi-platform narrative analysis.
+**🧠 Purpose:**\
+Acts as the central AI coordinator — the "brain" of the swarm.
 
-#### Workflow Precision
+**⚙️ Core Functions:**
 
-* **Metadata Enrichment**: The Frontliner’s initial data ensures sub-agents focus on specialized tasks, reducing redundancy.
-* **Memory Management**: Uses last 5 messages context to maintain user session context.(to be improved)
-* **Error Handling**: Implements retries and fallbacks for robust API interactions.
-* **Rate Limit Optimization**: Coordinates requests to respect API limits and avoid errors.
+* Interprets user intent
+* Delegates subtasks to relevant sub-agents
+* Synthesizes and formats **multi-dimensional insights** into actionable responses
+* Delivers **HTML-rich Telegram outputs** that are clean and professional
 
-#### Example Workflow
+**⚡ Key Features:**
 
-1. User sends: “Analyze $WIF on Solana” to @DefiWizard\_bot.
-2. The Frontliner validates the token, confirms Solana network, and fetches metadata (market cap: $20M, volume: $5M, creation: 2024-01-15, socials).
-3. @DefiWizard\_bot delegates:
-   * CoinGecko MCP: CEX price and volume trends.
-   * GeckoTerminal: DEX pool data and liquidity.
-   * TA Agent: Price action on 1h and 4h timeframes.
-   * Twitter X Agent: Sentiment and community signals.
+* Smart task allocation to **reduce redundant API calls**
+* Balances CEX, DEX, technical, and social data into unified responses
+* Built-in **rate limit intelligence** to avoid API lockouts
 
+***
+
+#### 🧩 3. Specialized Sub-Agents
+
+Each sub-agent focuses on a specific data domain and executes tasks in parallel:
+
+**🏦 CEX Sub-Agent**
+
+* Fetches CEX data (price, volume, trends) from **CoinGecko MCP**
+* Specializes in **blue-chip tokens** and widely-listed assets
+
+**🦄 DEX Sub-Agent**
+
+* Retrieves DEX token and pool data across **200+ chains and 1,600+ DEXs**
+* Capable of **batching up to 30 tokens per API call**, ensuring scalability
+
+**📊 TA Agent Master**
+
+* Conducts **multi-timeframe technical analysis**
+* Splits into **3 sub-agents** to handle multiple timeframes (e.g., 15m, 1h, 4h, 1d) simultaneously
+* Uses **GeckoTerminal** + **Syve.ai** for OHLCV data
+  * Up to **2,500 candles** (Base/Ethereum)
+  * Up to **1,000 candles or 6 months** for other chains
+
+**🐦 Twitter X Agent**
+
+* Evaluates Twitter activity for **influencer behavior**, **community engagement**, and **sentiment quality**
+* Flags red flags like **bot-like engagement**, **giveaway spam**, or **fake blue checks**
+
+***
+
+#### 🔮 Future Sub-Agents (Planned)
+
+* **🛡 Token Security Specialist** – Automated contract auditing via **GoPlus API**
+* **🌍 Social Sentiment Analyst** – Cross-platform narrative detection (Discord, Telegram, YouTube)
+
+***
+
+### ⚙️ Workflow Precision
+
+**🧪 Metadata Enrichment**\
+Frontliner ensures all agents begin with a clean, structured context, avoiding overlap and boosting task accuracy.
+
+**🧠 Memory Management**\
+Maintains limited conversational memory (last 5 messages) for session continuity. _(Session context engine upgrade in progress.)_
+
+**🔁 Robust Error Handling**\
+Retries and fallback logic for failed API calls ensures response consistency.
+
+**📉 Rate Limit Optimization**\
+Smart request pacing and batching keep all agents within their provider limits.
+
+***
+
+### 🧵 Example Workflow:
+
+**User:** “Analyze $WIF on Solana”\
+**Process:**
+
+1. **Frontliner:**\
+   Resolves `$WIF`, confirms **Solana**, fetches:
+   * Market Cap: $20M
+   * 24h Volume: $5M
+   * Creation Date: 2024‑01‑15
+   * Socials & Chain Metadata
+2. **@DefiWizard\_bot:**\
+   Delegates tasks to sub-agents:
+   * **CoinGecko MCP:** CEX price/volume trends
+   * **GeckoTerminal:** DEX pools + liquidity
+   * **TA Agent Master:** 1h and 4h technical analysis
+   * **Twitter X Agent:** Sentiment and community quality check
+3. **Response Delivered to Telegram:**\
+   A fully formatted HTML message, with clean market positioning and alpha insights — all orchestrated in under 10 seconds.

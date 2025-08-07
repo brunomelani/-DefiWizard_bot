@@ -1,21 +1,40 @@
 ---
 description: >-
-  Master Your DeFi Journey empowered by a swarm of AI agents, this bot delivers
-  real-time, actionable insights on tokens, market trends, technical analysis,
-  and social sentiment across 100+ chains.
+  Defi Wizard is a next-gen AI crypto agent swarm/guild, built to serve the
+  everyday trenches trader. It blends real-time market data with AI-powered
+  insights, giving you a serious edge in Crypto.
 ---
 
-# 🧙‍♂️ Welcome
+# 🧙‍♂️ Welcome to Defi Wizard
 
-🧙‍♂️ [**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot) is your ultimate Telegram-based DeFi intelligence platform, built on n8n and crafted by a degen dev itself[ ](https://t.me/BrunoMelani) for all risk appetite traders and teams out there. This Beast is powered by a swarm of AI agents, this premium, subscription-based service delivers real-time prices for both established and DeFi/DEX tokens, alongside actionable insights into market trends, technical analysis, and social sentiment across 100+ blockchains, including Ethereum, Solana, Base, Sui, BNB, XRP and ApeChain.
+***
 
-This state-of-the-art bot empowers you to stay ahead in the fast-paced DeFi universe with:
+Meticulously crafted by a degen, for degens [@DefiWizard\_bot](https://t.me/DefiWizard_Bot) is your ultimate Telegram-based **DeFi intelligence platform**. Whether you're hunting alpha, avoiding larps, or just trying to make sense of the chaos, Defi Wizard’s got your back.
 
-* **Real-Time Price Tracking**: Instant access to prices for established tokens and emerging DeFi/DEX assets.
-* **Multi-Chain Insights**: Comprehensive analysis across 100+ blockchains, from mainstream to emerging ecosystems.
-* **AI-Driven Precision**: A meticulously orchestrated swarm of agents delivers market intelligence, technical analysis, and sentiment data.
-* **Continuous Evolution**: Regular updates with new tools, APIs, and features to keep you at the forefront of DeFi.
+***
+
+**⚔️ What Powers the Wizard?**
+
+Behind the robe and wand is a **guild of specialized AI agents,** each trained in their unique niche:
+
+* On chain data analysis
+* Multiple time frame analyses
+* Technical indicators
+* Social sentiment
+* And more (to be added and not revealed)...
+
+These agents collaborate in real time to scan over **100+ blockchains and DEXs**, helping you uncover hidden gems, dodge rugs, and act faster than the herd.&#x20;
+
+***
+
+{% hint style="success" %}
+**🚧 Under Constant Construction**\
+We’re always innovating, expect service disruption during beta phase due frequent updates to include new tools, and or new agents as the system continues to evolve.
+{% endhint %}
 
 {% hint style="info" %}
-&#x20;_@DefiWizard\_bot is not open-source or intended for forking, copying, or reuse. This README showcases its sophisticated capabilities and invites you to join our mission of dominating defi._
+## ⚠️ Important Notes
+
+**🔒 Not Open‑Source**\
+This bot’s architecture is proprietary. Please refrain from forking, copying, or repurposing it. This space is designed to showcase our advanced capabilities and invite you to be part of the DeFi revolution.
 {% endhint %}
