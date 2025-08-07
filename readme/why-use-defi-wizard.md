@@ -4,7 +4,7 @@ description: We all understands that in crypto, on‑chain information is alpha,
 
 # ❓ Why use Defi-Wizard?
 
-<figure><img src="../.gitbook/assets/defiwizardbanner.png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/defiwizardbanner.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## What makes Defi-Wizard worthy?
 
