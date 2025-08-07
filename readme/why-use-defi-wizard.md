@@ -4,11 +4,11 @@ description: We all understands that in crypto, on‑chain information is alpha,
 
 # ❓ Why use Defi-Wizard?
 
-## 🧙‍♂️What Makes the Wizard Worthy?
+## What Makes the Defi-Wizard Worthy?
 
 Trying to keep up with **thousands of daily new tokens**, **hundreds of chains**, and **a flood of narratives** every day it’s a **mental warfare.**
 
-Doing proper due diligence on even a handful of tokens daily is already exhausting. The deeper you dig, the more time it takes and eventually you hit that burnout. This leads traders to **cut corners**, rushed plays, and **bad investment choices**.
+Doing proper due diligence on even a handful of tokens daily is already exhausting. The deeper you dig, the more time it takes and eventually you feel like you hit that burnout. This is common due overwhelming amount of launches  that leads traders to **cut corners** and get in rushed plays consequently making bad investment choices or missing out on good ones for lack of context.
 
 ***
 
@@ -16,7 +16,7 @@ Doing proper due diligence on even a handful of tokens daily is already exhausti
 
 With a single query, the Wizard filters through the noise and cuts straight to what matters surfacing critical insights, risk factors, and potential “alpha” **before you even decide if it’s worth your attention**.
 
-Whatever you're scanning for, the Wizard **streamlines your hunt** and **saves your energy**, so you can trade smarter  and enjoy the process of hunting gems again.
+Whatever you're scanning for, the Wizard **streamlines your hunt** and **saves your energy**, so you can trade smarter and enjoy the process of hunting gems again.
 
 ***
 
@@ -24,26 +24,20 @@ Whatever you're scanning for, the Wizard **streamlines your hunt** and **saves y
 
 ***
 
-**🌐 Multi‑Chain Firepower**
-
-From Ethereum to Solana, Sui, ApeChain, Base, and **100+ EVMs, L2s, and alt chains** — the Wizard doesn’t discriminate. If there's data, it hunts it down.
-
-***
-
 **⚡ Real-Time Intelligence**
 
-The bot delivers **HTML-formatted, high-signal responses**, merging raw data with strategy in seconds — so you don’t just get info, you get **decisions**.
+The bot delivers **formatted, high-signal responses**, merging raw data with strategy in seconds so you don’t just get info, you get **decisions**.
 
 ***
 
-**♻️ Built to Evolve**
+**🌐 Multi‑Chain Firepower**
 
-New chains? New narratives? New APIs?\
-The Wizard’s agent guild evolves constantly — with updates rolling out regularly to add new tools, refine logic, and push the edge further.
+From Ethereum to Solana, Sui, ApeChain, Base, and **100+ EVMs, L2s, and alt chains,** the Wizard doesn’t discriminate. If there's data, it hunts it down.
 
 ***
 
-### 🧙‍♂️ TL;DR:
+{% hint style="success" %}
+## **🧙‍♂️ Wizard tl;dr**
 
-In a sea of noise, **Defi Wizard is your tactical edge**.\
-It’s the AI brain you wish you had — now in your Telegram, ready to fight alongside you.
+In a sea of noise, **I am your tactical edge.**
+{% endhint %}
