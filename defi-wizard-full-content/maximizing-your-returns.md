@@ -1,6 +1,10 @@
+---
+description: 🧙‍♂️ @DefiWizard_bot
+---
+
 # 💸 Maximizing Your Returns
 
-To extract maximum value from @DefiWizard\_bot:
+To extract maximum value from [**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot) :
 
 1. **Craft Targeted Queries**:
    * Specify token names, tickers, or contract addresses (e.g., “$BOBO on Base”, “0x123… on Ethereum”).

@@ -1,7 +1,7 @@
 ---
 description: >-
-  @DefiWizard_bot is a premium, subscription-based service with three tiers
-  tailored to your DeFi ambitions.
+  🧙‍♂️ @DefiWizard_bot is a premium, subscription-based service with three
+  tiers tailored to your DeFi ambitions.
 ---
 
 # 🥇 Subscription Tiers

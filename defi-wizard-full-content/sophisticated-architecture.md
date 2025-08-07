@@ -1,13 +1,8 @@
 ---
-description: >-
-  @DefiWizard_bot power lies in its meticulously designed, modular architecture.
-  From the foundation agent to the orchestrator that directs a swarm of
-  specialized agents for unparalleled efficiency.
+description: 🧙‍♂️ @DefiWizard_bot
 ---
 
 # 🫂 Sophisticated Architecture
-
-####
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

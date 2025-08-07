@@ -2,11 +2,10 @@
 
 * [🧙‍♂️ Welcome](README.md)
   * [📖 Table of Contents](readme/table-of-contents.md)
-* [📖 Table of Contents](table-of-contents.md)
 
 ## 🧙‍♂️ Defi Wizard full content
 
-* [❔ Why @DefiWizard\_bot?](defi-wizard-full-content/why-defiwizard_bot.md)
+* [❔ Why use Defi-Wizard?](defi-wizard-full-content/why-use-defi-wizard.md)
 * [🪛 Core Capabilities](defi-wizard-full-content/core-capabilities.md)
 * [🫂 Sophisticated Architecture](defi-wizard-full-content/sophisticated-architecture.md)
 * [🤹‍♀️ Multi-Chain Mastery](defi-wizard-full-content/multi-chain-mastery.md)
