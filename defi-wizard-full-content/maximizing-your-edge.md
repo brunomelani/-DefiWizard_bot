@@ -7,19 +7,6 @@ description: >-
 
 # 🔮 Maximizing Your Edge
 
-To extract maximum value from [**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot) :
-
-#### 🧠 Understand the Stack
-
-Behind every result is a **multi-agent AI system** doing layered analysis:
-
-* **Frontliner Agent** — pulls token metadata, resolves contracts/networks, and builds context.
-* **TA Agent** — performs multi-timeframe technical analysis using GeckoTerminal OHLCV data.
-* **Sentiment Agent** — analyzes Twitter/X for community quality, influencer activity, and hype patterns.
-* **Master Orchestrator** — weighs everything and returns an actionable “Master Assessment”.
-
-Use that structure to your advantage. Tailor your query to engage the right parts of the system.
-
 ***
 
 #### 🧙‍♂️ Core Prompt Types
