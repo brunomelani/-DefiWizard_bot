@@ -4,7 +4,7 @@ description: We all understands that in crypto, on‑chain information is alpha,
 
 # ❓ Why use Defi-Wizard?
 
-## What makes [Defi-Wizard](https://t.me/DefiWizard_Bot) worthy?
+## What makes him worthy?
 
 Trying to keep up with **thousands of daily new tokens**, **hundreds of chains**, and **a flood of narratives** every day it’s a **mental warfare.**
 
@@ -35,8 +35,8 @@ From Ethereum to Solana, Sui, ApeChain, Base, and **100+ EVMs, L2s, and alt chai
 {% hint style="success" %}
 ## **🧙‍♂️ Wizard Wisdom**
 
-* **"Through markets and madness I shall cast clarity.🔮"**
-* **"A data sorcerer on a quest for quantum gains.🚀"**
-* **"Where mortals scroll, I scry.📜"**
-* **"I don’t trade. I conjure.🧙‍♂️"**
+* **I don’t trade. I conjure gains.🧙‍♂️**
+* **Where mortals scroll, I scry.📜**
+* **A data sorcerer on a quest for quantum returns.**&#xD83D;�
+* **Through markets madness I shall cast clarity.🔮**
 {% endhint %}

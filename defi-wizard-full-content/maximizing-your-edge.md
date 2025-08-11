@@ -32,9 +32,6 @@ Your default starting point. Gives a **balanced overview** across fundamentals, 
 
 **Discovery Prompts:**
 
-* **Trending Scan:**\
-  `Scan trending on Solana`\
-  `What’s pumping on Base right now?`
 * **Narrative Digger:**\
   `Show tokens related to AI narrative with volume > $500k`
 
@@ -50,20 +47,8 @@ Combine strategies for deeper edge. You’re not just asking _what_, you’re se
 > `Check $PEPE but focus only on strong TA setups in the last 24h.`\
 > → Tactical targeting of recent entries.
 
-> `Find influencers tweeting about $BITCOIN BABY and check for giveaway spam or low-quality signals.`\
+> `Give me deep social sentiment on 0x123…`   \
 > → Reputation sniffing + alpha filtration.
-
-***
-
-## 🫂 Team Synergy (Pro Team Tier)
-
-If you're working in a group:
-
-* Distribute daily credits among analysts.
-* Share raw query results directly in Telegram or Notion.
-* Assign roles (e.g., one runs sentiment, another validates TA).
-
-Use the bot as a **central analyst**, not a sidekick.
 
 ***
 
@@ -71,10 +56,8 @@ Use the bot as a **central analyst**, not a sidekick.
 
 | What To Do            | Why It Matters                                                |
 | --------------------- | ------------------------------------------------------------- |
-| Be Specific           | Token name + chain avoids ambiguity.                          |
+| Be Specific           | Ticker + chain avoids ambiguity.                              |
 | Combine Contexts      | Merge TA + sentiment + volume = smarter signals.              |
-| Use Timeframes        | Ask for 1h/4h/12h/1d for relevant setups.                     |
-| Call Out Influencers  | `Check @elonmusk for posts about $XAI`                        |
 | Explore Social Layers | Ask about Twitter Communities or member behavior.             |
 | Push the Bot          | It’s multi-agent — stack insights and expect a judgment call. |
 
@@ -90,7 +73,7 @@ The more clearly you ask, the more surgical the response.
 > `Analyze <token> on <chain> with focus on [TA / sentiment / narrative]. Add timeframe + metadata.`
 
 > **Example:**\
-> `Analyze $DEGEN on Base, focus on TA (1h + 4h), include Twitter alpha and pool data.`
+> `Analyze $DEGEN on Base, focus on TA (1h + 4h), include Twitter alpha data.`
 
 {% hint style="info" %}
 _**This is a support tool – not a financial advisor.** Use it wisely, validate its insights, and never trade more than you can afford to lose._

@@ -1,11 +1,11 @@
 ---
 description: >-
-  🧙‍♂️ @DefiWizard_bot isn’t just a tool, it’s dynamic living project, built by
-  a degen dev for degens, traders, and on-chain operators navigating thru DeFi
-  trenches.
+  🧙‍♂️ @DefiWizard_bot isn’t just a tool, it’s dynamic ongoing project, built
+  by a degen dev for degens, traders, and on-chain operators navigating thru
+  DeFi trenches.
 ---
 
-# 🧙‍♂️ PROJECT FINAL CONSIODERATIONS
+# 🧙‍♂️ PROJECT FINAL CONSIDERATIONS
 
 ## 🧬️A Living Project
 

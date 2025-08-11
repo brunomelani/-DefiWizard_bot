@@ -10,7 +10,7 @@ description: >-
 ***
 
 {% hint style="warning" %}
-## After the Beta period is over, new users will receive a one-time 10-credit trial to explore the system.&#x20;
+## After the Beta period is over, new users will receive a one time 10 msg credit trial to explore the system.&#x20;
 
 This trial system helps prevent abuse and ensures fair usage of infrastructure
 {% endhint %}
@@ -27,7 +27,7 @@ To upgrade and extend daily usage during this period beyond trial credit, send d
 **A**utomated payment options (soon):
 
 * Telegram’s native [@wallet](https://t.me/wallet)
-* Trusted Telegram crypto bots like [@CryptoBot](https://t.me/CryptoBot) | [@send](https://t.me/send)&#x20;
+* Trusted Telegram crypto bots like [@CryptoBot](https://t.me/CryptoBot)
 
 These integrations will provide **seamless subscription management** and reduce manual overhead.
 
