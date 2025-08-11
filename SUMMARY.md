@@ -14,6 +14,10 @@
 * [🤹‍♀️ Multi-Chain Mastery](defi-wizard-full-content/multi-chain-mastery.md)
 * [🥇 Subscription Tiers](defi-wizard-full-content/subscription-tiers.md)
 
+## 🧙‍♂️ Copy of Defi Wizard full content
+
+* [Page 1](copy-of-defi-wizard-full-content/page-1.md)
+
 ***
 
 * [🧙‍♂️ PROJECT FINAL CONSIDERATIONS](project-final-considerations/README.md)
