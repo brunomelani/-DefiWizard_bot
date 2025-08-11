@@ -6,6 +6,8 @@ description: 🧙‍♂️ For the ones keen to understand deeper what happens u
 
 At the core of **Defi Wizard** is a highly modular **agent swarm architecture**, where each component plays a specialized role. Powered by **n8n**, this system is orchestrated to maximize data quality, minimize latency, and deliver sharp, multi-layered DeFi insights within seconds.
 
+[#id-1.-the-frontliner](explore-the-architecture.md#id-1.-the-frontliner "mention")[#id-2.-the-wizard-master-orchestrator](explore-the-architecture.md#id-2.-the-wizard-master-orchestrator "mention")[#id-3.-guild-of-specialized-sub-wizards-agents](explore-the-architecture.md#id-3.-guild-of-specialized-sub-wizards-agents "mention")
+
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Defi Wizard Agent swarm v2.0</p></figcaption></figure>
 
 {% include "../.gitbook/includes/defiwizard-engine.md" %}

@@ -9,7 +9,7 @@ description: >-
 
 ***
 
-#### 🧙‍♂️ Core Prompt Types
+## 🧙‍♂️ Core Prompt Types
 
 Here’s what you can ask — and how to get high-value responses:
 
@@ -40,7 +40,7 @@ Your default starting point. Gives a **balanced overview** across fundamentals, 
 
 ***
 
-#### 🧩 Prompt Stacking
+## 🧩 Prompt Stacking
 
 Combine strategies for deeper edge. You’re not just asking _what_, you’re setting **intent**.
 
@@ -55,7 +55,7 @@ Combine strategies for deeper edge. You’re not just asking _what_, you’re se
 
 ***
 
-#### 🫂 Team Synergy (Pro Team Tier)
+## 🫂 Team Synergy (Pro Team Tier)
 
 If you're working in a group:
 
@@ -67,7 +67,7 @@ Use the bot as a **central analyst**, not a sidekick.
 
 ***
 
-#### 🧠 Prompt Best Practices
+## 🧠 Prompt Best Practices
 
 | What To Do            | Why It Matters                                                |
 | --------------------- | ------------------------------------------------------------- |
@@ -80,7 +80,7 @@ Use the bot as a **central analyst**, not a sidekick.
 
 ***
 
-#### ⚔️ Final Mindset
+## ⚔️ Final Mindset
 
 @DefiWizard\_bot isn’t just data. It’s your **on-demand alpha war machine**. But YOU are the commander.
 

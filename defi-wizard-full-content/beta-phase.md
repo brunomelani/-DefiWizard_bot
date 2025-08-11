@@ -10,26 +10,21 @@ description: >-
 ***
 
 {% hint style="warning" %}
-After the Beta period is over, new users will receive a one-time 10-credit trial to explore the system.&#x20;
+## After the Beta period is over, new users will receive a one-time 10-credit trial to explore the system.&#x20;
 
 This trial system helps prevent abuse and ensures fair usage of infrastructure
 {% endhint %}
 
 ***
 
-**💳 Payment Methods**
+## **💳 Payment Methods**
 
 **During Beta:**\
-To upgrade or extend usage during this period above daily free trial credit, send direct token transfers to the **developer wallet**. Once payment is confirmed, you’ll be manually added to the **Premium** access list.
-
-**Payment Methods**
-
-* **Beta Phase**: Send direct transfers to the dev wallet with crypto for your chosen tier. At this stage you’ll be manually added to the access list.
+To upgrade and extend daily usage during this period beyond trial credit, send direct token transfers to the **developer wallet**. Once payment is confirmed, you’ll be manually added to the **Premium** access list.
 
 ***
 
-**Coming Soon:**\
-Automated payment options via:
+**A**utomated payment options (soon):
 
 * Telegram’s native [@wallet](https://t.me/wallet)
 * Trusted Telegram crypto bots like [@CryptoBot](https://t.me/CryptoBot) | [@send](https://t.me/send)&#x20;
