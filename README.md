@@ -3,8 +3,8 @@ description: >-
   @DefiWizard_bot is a Tg next-gen AI crypto agent guild, built to serve the
   everyday trenches trader. It blends real-time market data with AI-powered
   insights, giving you a serious edge in Crypto.
-cover: .gitbook/assets/defiwizardbanner.png
-coverY: 275.6175641853706
+cover: .gitbook/assets/ChatGPT Image Aug 11, 2025, 09_56_04 PM.png
+coverY: 131.27840800369196
 layout:
   width: default
   cover:
@@ -34,7 +34,9 @@ layout:
 
 ***
 
-<kbd>**⚔️ What Powers the Wizard?**</kbd>
+<p align="center"><kbd><strong>⚔️ What Powers the Wizard?</strong></kbd></p>
+
+<figure><img src=".gitbook/assets/defiwizard_bot.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Behind the robe and wand is a **guild of specialized AI agents,** each trained in their unique niche:
 

@@ -4,8 +4,6 @@ description: We all understands that in crypto, on‑chain information is alpha,
 
 # ❓ Why use Defi-Wizard?
 
-<div align="left"><figure><img src="../.gitbook/assets/defiwizardbanner.png" alt="" width="563"><figcaption></figcaption></figure></div>
-
 ## What makes [Defi-Wizard](https://t.me/DefiWizard_Bot) worthy?
 
 Trying to keep up with **thousands of daily new tokens**, **hundreds of chains**, and **a flood of narratives** every day it’s a **mental warfare.**
