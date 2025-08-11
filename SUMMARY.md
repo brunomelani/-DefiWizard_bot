@@ -3,20 +3,16 @@
 * [🧙‍♂️ Welcome to Defi Wizard](README.md)
   * [❓ Why use Defi-Wizard?](readme/why-use-defi-wizard.md)
   * [🧞 What You Get?](readme/what-you-get.md)
+* [📖 Table of Contents](table-of-contents.md)
 
 ## 🧙‍♂️ Defi Wizard full content
 
-* [📖 Table of Contents](defi-wizard-full-content/table-of-contents.md)
 * [🚀 Beta Phase](defi-wizard-full-content/beta-phase.md)
 * [🔮 Maximizing Your Edge](defi-wizard-full-content/maximizing-your-edge.md)
 * [⚙️ Core Capabilities](defi-wizard-full-content/core-capabilities.md)
 * [🫂 Explore the Architecture](defi-wizard-full-content/explore-the-architecture.md)
 * [🤹‍♀️ Multi-Chain Mastery](defi-wizard-full-content/multi-chain-mastery.md)
 * [🥇 Subscription Tiers](defi-wizard-full-content/subscription-tiers.md)
-
-## 🧙‍♂️ Copy of Defi Wizard full content
-
-* [Page 1](copy-of-defi-wizard-full-content/page-1.md)
 
 ***
 

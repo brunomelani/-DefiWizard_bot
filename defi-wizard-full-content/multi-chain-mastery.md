@@ -11,4 +11,4 @@ description: 🧙‍♂️ @DefiWizard_bot
 * **Layer-2 & Sidechains**: Polygon zkEVM, Arbitrum Nova, Manta Pacific, Scroll, Linea.
 * **Additional Networks**: Avalanche, Fantom, Cronos, Moonbeam, ZkSync, and 90+ others.
 
-This extensive chain support allows The Frontliner to validate tokens and fetch metadata across diverse ecosystems, ensuring @DefiWizard\_bot delivers precise insights wherever your tokens reside.
+This solid guild of wizards allows this bot to validate any existing token and fetch historic and real time data across diverse ecosystems, ensuring @DefiWizard\_bot delivers precise insights wherever your tokens reside.
