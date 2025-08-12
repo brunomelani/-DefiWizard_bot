@@ -1,5 +1,7 @@
 ---
 description: We all understands that in crypto, on‑chain information is alpha, but...
+cover: ../.gitbook/assets/ChatGPT Image Aug 11, 2025, 09_56_04 PM.png
+coverY: 135.20767290750828
 ---
 
 # ❓ Why use Defi-Wizard?

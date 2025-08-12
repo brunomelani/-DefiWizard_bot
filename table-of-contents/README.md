@@ -1,5 +1,7 @@
 ---
 description: 🧙‍♂️ @DefiWizard_bot
+cover: ../.gitbook/assets/ChatGPT Image Aug 11, 2025, 09_56_04 PM.png
+coverY: 129.35220764663643
 ---
 
 # 📖 Table of Contents
@@ -28,9 +30,9 @@ description: 🧙‍♂️ @DefiWizard_bot
 
 ***
 
-## `🤹Multi-Chain Mastery`
+## `🤹Supported Networks`
 
-[@DefiWizard\_bot supports over 100 blockchains, enabling capability across diverse DeFi ecosystems.](multi-chain-mastery.md)
+[@DefiWizard\_bot supports over 185+ blockchains, enabling capability across diverse DeFi ecosystems.](supported-networks.md)
 
 ***
 

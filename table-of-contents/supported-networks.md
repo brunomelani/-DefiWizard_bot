@@ -2,25 +2,31 @@
 description: >-
   @DefiWizard_bot supports over 185 blockchain networks, ensuring comprehensive
   coverage across an infinity of DeFi ecosystem.
+cover: ../.gitbook/assets/1059b243-5a3b-4a53-965e-dad7a62e0145.jpg
+coverY: 240.6888823788903
 ---
 
-# 🤹‍♀️ Multi-Chain Mastery
+# 🤹‍♀️ Supported Networks
 
-## 🌟 Major Networks:
+## 🏆 Major Networks:
 
-[Ethereum](https://www.geckoterminal.com/eth/pools), [Solana](https://www.geckoterminal.com/solana/pools), [Base](https://www.geckoterminal.com/base/pools), [BNB Chain](https://www.geckoterminal.com/bsc/pools), [Sui Network](https://www.geckoterminal.com/sui-network/pools),
+* Ethereum&#x20;
+* Solana
+* Base
+* BNB Chain
+* Sui Network
 
 ## 🚀 **Emerging Networks:**&#x20;
 
-[Bittensor](https://www.geckoterminal.com/bittensor/pools), [Pulsechain](https://www.geckoterminal.com/pulsechain/pools), [Optimism](https://www.geckoterminal.com/optimism/pools), [Avalanche](https://www.geckoterminal.com/avax/pools), [Aptos](https://www.geckoterminal.com/aptos/pools), [Tron](https://www.geckoterminal.com/tron/pools), [TON](https://www.geckoterminal.com/ton/pools), [Near](https://www.geckoterminal.com/near/pools), [Mantle](https://www.geckoterminal.com/mantle/pools), [Unichain](https://www.geckoterminal.com/unichain/pools), [Blast](https://www.geckoterminal.com/blast/pools), [XRPL](https://www.geckoterminal.com/xrpl/pools), [HyperEVM](https://www.geckoterminal.com/hyperevm/pools), [Merlin Chain](https://www.geckoterminal.com/merlin-chain/pools), [Berachain](https://www.geckoterminal.com/berachain/pools), Fraxtal, [World Chain](https://www.geckoterminal.com/world-chain/pools), , [Chiliz Chain](https://www.geckoterminal.com/chiliz-chain/pools), [Bitlayer](https://www.geckoterminal.com/bitlayer/pools), [Sei V2](https://www.geckoterminal.com/sei-evm/pools), [Movement](https://www.geckoterminal.com/movement/pools), [ZetaChain](https://www.geckoterminal.com/zetachain/pools), Hyperliquid.
+Bittensor, Pulsechain, Optimism, Avalanche, Aptos, Tron, TON, Near, Mantle, Unichain, Blast, XRPL, HyperEVM, Merlin Chain, Berachain, Fraxtal, World Chain, , Chiliz Chain, Bitlayer, Sei V2, Movement, ZetaChain, Hyperliquid.
 
 ## 🔗 **Layer-2 & Sidechains:**&#x20;
 
-[Arbitrum](https://www.geckoterminal.com/arbitrum/pools), [Polygon POS](https://www.geckoterminal.com/polygon_pos/pools), [Manta Pacific](https://www.geckoterminal.com/manta-pacific/pools), [Scroll](https://www.geckoterminal.com/scroll/pools), [Linea](https://www.geckoterminal.com/linea/pools), [ZkSync](https://www.geckoterminal.com/zksync/pools), [Starknet](https://www.geckoterminal.com/starknet-alpha/pools), [Immutable zkEVM](https://www.geckoterminal.com/immutable-zkevm/pools), [Mode](https://www.geckoterminal.com/mode/pools).
+Arbitrum, Polygon POS, Manta Pacific, Scroll, Linea, ZkSync, Starknet, Immutable zkEVM, Mode.
 
 ## ➕ **Additional Networks:**&#x20;
 
-[Cardano](https://www.geckoterminal.com/cardano/pools), [Sonic](https://www.geckoterminal.com/sonic/pools), [Cronos](https://www.geckoterminal.com/cro/pools), [Degen Chain](https://www.geckoterminal.com/degenchain/pools),  [Mantle](https://www.geckoterminal.com/mantle/pools), [Moonbeam](https://www.geckoterminal.com/glmr/pools), [Moonriver](https://www.geckoterminal.com/movr/pools), [CELO](https://www.geckoterminal.com/celo/pools), [Filecoin](https://www.geckoterminal.com/filecoin/pools), [Hedera Hashgraph](https://www.geckoterminal.com/hedera-hashgraph/pools), [IOTEX](https://www.geckoterminal.com/iotx/pools), [Fantom](https://www.geckoterminal.com/ftm/pools), [Shibarium](https://www.geckoterminal.com/shibarium/pools), [Dogechain](https://www.geckoterminal.com/dogechain/pools), [Harmony](https://www.geckoterminal.com/one/pools), [Goat](https://www.geckoterminal.com/goat/pools), [DuckChain](https://www.geckoterminal.com/duckchain/pools), [ApeChain](https://www.geckoterminal.com/apechain/pools), [Sei Network](https://www.geckoterminal.com/sei-network/pools) [Ethereum Classic](https://www.geckoterminal.com/ethereum_classic/pools), [EthereumPOW](https://www.geckoterminal.com/ethw/pools), [Flare](https://www.geckoterminal.com/flare/pools) and 150+ others.
+Cardano, Sonic, Cronos, Degen Chain,  Mantle, Moonbeam, Moonriver, CELO, Filecoin, Hedera Hashgraph, IOTEX, Fantom, Shibarium, Dogechain, Harmony, Goat, DuckChain, ApeChain, Sei Network Ethereum Classic, EthereumPOW, Flare and 150+ others.
 
 This solid guild of wizards 🧙‍♂️ allows this bot to validate any existing token and fetch historic and real-time data across diverse ecosystems, ensuring @DefiWizard\_bot delivers precise insights wherever your tokens reside. ✨
 
