@@ -12,5 +12,5 @@
   * [🥇 Subscription Tiers](table-of-contents/subscription-tiers.md)
 * [🧙‍♂️ Project Final Considerations](project-final-considerations/README.md)
   * [📱 Contact & Support](project-final-considerations/contact-and-support.md)
-  * [🗃️ Available Data Sources](project-final-considerations/available-data-sources.md)
   * [⚖️ Legal Disclaimer](project-final-considerations/legal-disclaimer.md)
+  * [🗃️ Available Data Sources](project-final-considerations/available-data-sources.md)

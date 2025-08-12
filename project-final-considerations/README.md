@@ -5,7 +5,7 @@ description: >-
   DeFi trenches.
 ---
 
-# 🧙‍♂️ PROJECT FINAL CONSIDERATIONS
+# 🧙‍♂️ Project Final Considerations
 
 ## 🧬️A Living Project
 
@@ -13,11 +13,11 @@ This system is designed to **evolve constantly**: new APIs, smarter sub-agents, 
 
 As we grow, so does the vision:&#x20;
 
-💠 Future upgrades may introduce **premium agent tiers**, **model scaling**, or even a **token-powered ecosystem** for active contributors and holders.&#x20;
+💠 Future upgrades may introduce **more powerful api tools**, **model scaling**, and potentially a **token-powered ecosystem** that will benefit active early users in future tokens airdrops.&#x20;
 
-💠 Today, most APIs used in the bot run on **free-tier limitations.** but scaling usage, partnerships, or community contributions may unlock **greater depth, speed, reliability and volume**.&#x20;
+💠 Today, most APIs used in the bot run on **basic-tiers limitations.** but as userbase grows we will continue to scaling usage, which will consequently also unlocks more powerful data endpoints for the planned APIs.&#x20;
 
-💠 New capabilities (like AI memory, token security audits, multi-chain TA models, and enhanced social analysis) are already in R\&D.
+💠 New capabilities (like AI memory, token security audits, multi-chain TA models, and enhanced social analysis) are already in R\&D. Partnerships, or community contributions may unlock **greater depth, speed, reliability and volume**.&#x20;
 
 ***
 
@@ -30,5 +30,7 @@ We’re currently in an **open trial / beta phase**, which means:
 * The wizard isn’t perfect (yet), but it’s getting smarter every day especially with your help.
 
 {% hint style="success" %}
-**💡**Think of it like summoning a guild of degen AI apprentices they're powerful, but still learning. Our input teaches them where to aim next.
+**💡**Think of it like building a guild of degenerates AI workers we want, they are powerful, but still learning.&#x20;
+
+* Our input teaches them where to aim next.
 {% endhint %}
