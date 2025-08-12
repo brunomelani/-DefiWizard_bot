@@ -1,20 +1,14 @@
 ---
-description: 🧙‍♂️ @DefiWizard_bot
+description: 📖 Table of Contents 🧙‍♂️ @DefiWizard_bot
 cover: ../.gitbook/assets/ChatGPT Image Aug 11, 2025, 09_56_04 PM.png
 coverY: 129.35220764663643
 ---
 
-# 📖 Table of Contents
+# 🧙‍♂️ Defi Wizard Main Content
 
 ## `🤹Supported Networks`
 
-[@DefiWizard\_bot supports over 185+ blockchains, enabling capability across diverse DeFi ecosystems.](supported-networks.md)
-
-***
-
-## `⚙️Core Capabilities`
-
-[Explore the bot’s powerful features.](core-capabilities.md)
+[Defi Wizard supports over 185+ blockchains, check all available ecosystems.](supported-networks.md)
 
 ***
 
@@ -62,6 +56,12 @@ coverY: 129.35220764663643
 
 ## **`⚖️Legal Disclaimer`**
 
-[Important disclaimer about how to interpret insights from @DefiWizard\_bot and where your own responsibility begins.](../project-final-considerations/legal-disclaimer.md)
+[Important disclaimer on how to interpret insights from @DefiWizard\_bot and where your own responsibility begins.](../project-final-considerations/legal-disclaimer.md)
+
+***
+
+## `⚙️Core Capabilities`
+
+[Explore the bot’s powerful features.](../project-final-considerations/core-capabilities.md)
 
 ***

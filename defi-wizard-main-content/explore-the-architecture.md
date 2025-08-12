@@ -19,7 +19,7 @@ layout:
 
 🧙‍♂️ For the ones keen to understand deeper what happens under the hood... The core of **Defi Wizard** is a highly modular **agent swarm architecture**, where each component plays a specialized role. Powered by **n8n**, this system is orchestrated to maximize data quality, minimize latency, and deliver sharp, multi-layered DeFi insights within seconds.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Defi Wizard Agent swarm v2.0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Defi Wizard Agent Swarm</p></figcaption></figure>
 
 {% include "../.gitbook/includes/defiwizard-engine.md" %}
 
@@ -35,10 +35,8 @@ Serves as the gateway for resolving any token query, enriching context for downs
 **🛠️ Core Functions:**
 
 * Resolves token identity via **name, ticker, or contract address**
-* Validates **network compatibility** across 100+ chains
+* Validates **network compatibility** across 180+ chains
 * Fetches token metadata: **market cap, 24h volume, creation date, socials, and chain info**
-* Aggregates data from **GeckoTerminal** and **DexScreener**
-* Outputs a clean, structured **JSON payload** for the Master Orchestrator
 
 {% hint style="info" %}
 Guarantees all downstream agents receive **high-integrity, pre-validated data**, increasing system speed, accuracy, and coherence.
@@ -121,7 +119,7 @@ Each sub-agent focuses on a specific data domain and executes tasks in parallel
 Frontliner ensures all agents begin with a clean, structured context, avoiding overlap and boosting task accuracy.
 
 **🧠 Memory Management**\
-Maintains limited conversational memory (last 5 messages) for session continuity. _(Session context engine upgrade in progress.)_
+Maintains limited conversational memory for session continuity. _(Session context engine upgrade in progress)_
 
 **🔁 Robust Error Handling**\
 Retries and fallback logic for failed API calls ensures response consistency.

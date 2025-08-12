@@ -28,5 +28,6 @@ layout:
 
 ### Join our [Telegram community](https://t.me/+8Si2kaY_zEA4MTFl) for updates and support, or reach out to dev for inquiries.
 
-### Dominate DeFi with [**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot)🧙‍♂
+### 🧙‍♂[**Join the Guild**](https://t.me/DefiWizard_Bot) and experience what it means to have a **market oracle** watching over your trading journey across the infinite dimensions of DeFi.
 
+_The cosmos has chosen its traders. Will you answer the call?_
