@@ -1,5 +1,24 @@
 ---
 description: 🧙‍♂️ @DefiWizard_bot is a premium, subscription-based service.
+cover: ../.gitbook/assets/defiwizard_bot.png
+coverY: 128.4970391069541
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🥇 Subscription Tiers

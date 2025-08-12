@@ -1,5 +1,19 @@
 ---
 description: 🧙‍♂️ For the ones keen to understand deeper what happens under the hood.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🫂 Explore the Architecture

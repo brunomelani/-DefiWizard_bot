@@ -110,4 +110,4 @@ This solid guild of wizards 🧙‍♂️ allows this bot to validate any existi
 | zkLink Nova            | ZkSync             | Zora                 | ZetaChain           |
 | Zilliqa EVM            | Zircuit            | ZKFair               |                     |
 
-## Next Page: [Click to skip to next page](subscription-tiers.md)
+## Bottom Page: Click to skip to end

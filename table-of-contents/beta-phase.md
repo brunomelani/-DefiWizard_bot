@@ -3,6 +3,25 @@ description: >-
   @DefiWizard_bot is currently in Beta. You can try it out with 5 daily usage
   credits, completely free. It's your chance to experience the power of our AI
   agent swarm before full launch.
+cover: ../.gitbook/assets/defiwizard_bot.png
+coverY: 126.95999943374427
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🚀 Beta Phase

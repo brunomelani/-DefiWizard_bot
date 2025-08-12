@@ -1,5 +1,19 @@
 ---
 description: '🧙‍♂️ @DefiWizard_bot leverages a robust, multi-agent system:'
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # ⚙️ Core Capabilities

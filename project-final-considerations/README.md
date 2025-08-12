@@ -3,6 +3,25 @@ description: >-
   🧙‍♂️ @DefiWizard_bot isn’t just a tool, it’s dynamic ongoing project, built
   by a degen dev for degens, traders, and on-chain operators navigating thru
   DeFi trenches.
+cover: ../.gitbook/assets/defi-wizard_bot_banner.png
+coverY: 69.96936851173503
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🧙‍♂️ Project Final Considerations
