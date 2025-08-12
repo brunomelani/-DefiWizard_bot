@@ -3,7 +3,24 @@ description: >-
   @DefiWizard_bot supports over 185 blockchain networks, ensuring comprehensive
   coverage across an infinity of DeFi ecosystem.
 cover: ../.gitbook/assets/1059b243-5a3b-4a53-965e-dad7a62e0145.jpg
-coverY: 240.6888823788903
+coverY: 180.28313946964545
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🤹‍♀️ Supported Networks
