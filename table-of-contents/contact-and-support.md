@@ -1,7 +1,6 @@
 ---
-description: 🧙‍♂️ @DefiWizard_bot
 cover: ../.gitbook/assets/image.png
-coverY: -142.40010605643795
+coverY: -138.48091826822144
 layout:
   width: default
   cover:
@@ -10,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:

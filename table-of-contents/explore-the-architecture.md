@@ -1,11 +1,10 @@
 ---
-description: 🧙‍♂️ For the ones keen to understand deeper what happens under the hood.
 layout:
   width: default
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -18,7 +17,7 @@ layout:
 
 # 🫂 Explore the Architecture
 
-At the core of **Defi Wizard** is a highly modular **agent swarm architecture**, where each component plays a specialized role. Powered by **n8n**, this system is orchestrated to maximize data quality, minimize latency, and deliver sharp, multi-layered DeFi insights within seconds.
+🧙‍♂️ For the ones keen to understand deeper what happens under the hood... The core of **Defi Wizard** is a highly modular **agent swarm architecture**, where each component plays a specialized role. Powered by **n8n**, this system is orchestrated to maximize data quality, minimize latency, and deliver sharp, multi-layered DeFi insights within seconds.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Defi Wizard Agent swarm v2.0</p></figcaption></figure>
 
