@@ -6,15 +6,9 @@ coverY: 129.35220764663643
 
 # 📖 Table of Contents
 
-## `🚀Beta Phase`
+## `🤹Supported Networks`
 
-[Get details on the beta phase, trial credits, and upcoming features.](beta-phase.md)
-
-***
-
-## `✨Maximizing Your Edge`
-
-[Find tips on crafting effective prompts to enhance query results for agents and leverage the multiple layer and angles insights Defi Wizard can provide to optimize your trading strategies.](maximizing-your-edge.md)
+[@DefiWizard\_bot supports over 185+ blockchains, enabling capability across diverse DeFi ecosystems.](supported-networks.md)
 
 ***
 
@@ -24,15 +18,27 @@ coverY: 129.35220764663643
 
 ***
 
+## `📂`**`Available Data Sources`**
+
+[Explore the APIs and platforms powering the bot.](available-data-sources.md)
+
+***
+
+## `📝Maximizing Your Edge`
+
+[Find tips on crafting effective prompts to enhance query results for agents and leverage the multiple layer and angles insights Defi Wizard can provide to optimize your trading strategies.](maximizing-your-edge.md)
+
+***
+
 ## `🫂Explore the Architecture`
 
 [Find more details about the bot’s multi-agent system for comprehensive analysis.](explore-the-architecture.md)
 
 ***
 
-## `🤹Supported Networks`
+## `🚀Beta Phase`
 
-[@DefiWizard\_bot supports over 185+ blockchains, enabling capability across diverse DeFi ecosystems.](supported-networks.md)
+[Get details on the beta phase, trial credits, and upcoming features.](beta-phase.md)
 
 ***
 
@@ -42,9 +48,9 @@ coverY: 129.35220764663643
 
 ***
 
-## `📂`**`Data Sources`**
+## `📱Contact & Support`
 
-[Explore the APIs and platforms powering the bot.](../project-final-considerations/available-data-sources.md)
+[Access contact details for support and feedback.](contact-and-support.md)
 
 ***
 
@@ -54,12 +60,8 @@ coverY: 129.35220764663643
 
 ***
 
-## `📱Contact & Support`
-
-[Access contact details for support and feedback.](../project-final-considerations/contact-and-support.md)
-
-***
-
-## **`⚖️ Legal Disclaimer`**
+## **`⚖️Legal Disclaimer`**
 
 [Important disclaimer about how to interpret insights from @DefiWizard\_bot and where your own responsibility begins.](../project-final-considerations/legal-disclaimer.md)
+
+***

@@ -5,7 +5,7 @@ description: >-
   to prompt like a general, not a tourist.
 ---
 
-# 🔮 Maximizing Your Edge
+# 📝 Maximizing Your Edge
 
 ***
 
