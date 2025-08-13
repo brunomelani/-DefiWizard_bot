@@ -1,8 +1,7 @@
 ---
 description: >-
-  @DefiWizard_bot is not merely another crypto bot - it's a interdimensional
-  oracle built to serve those who dare to navigate the complexities of on-chain
-  trading and DeFi markets.
+  @DefiWizard_bot it's a interdimensional oracle built to serve those who dare
+  to navigate the complexities of on-chain trading and DeFi markets.
 cover: .gitbook/assets/defi-wizard_bot_banner.png
 coverY: 67.90996142283569
 layout:

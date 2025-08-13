@@ -43,9 +43,9 @@ Whatever you're scanning for, the Wizard **streamlines your hunt** and **saves y
 
 ## **🌐 Multi‑Chain** Omnipresence
 
-<sup>From Ethereum to Solana, Sui, Base, BSC and</sup> <sup></sup><sup>**185+ EVMs, L2s, and alternative chains**</sup> <sup></sup><sup>- the Wizard doesn't discriminate. If there's valuable alpha to be found, it</sup> <sup></sup><sup>**tracks it down across the entire blockchain universe**</sup><sup>.</sup>
+From Ethereum to Solana, Sui, Base, BSC and **185+ EVMs, L2s, and alternative chains. Coverage includes:** Every major DEX, CEX integration, cross-chain arbitrage opportunities, and emerging ecosystems where the next 100x might be hiding.
 
-<sup>**Coverage includes:**</sup> <sup></sup><sup>Every major DEX, CEX integration, cross-chain arbitrage opportunities, and emerging ecosystems where the next 100x might be hiding.</sup>
+The Wizard doesn't ~~discriminate~~.&#x20;
 
 ***
 
