@@ -1,6 +1,11 @@
 ---
+cover: ../.gitbook/assets/GyFeXdmWgAAmQBf.jpeg
+coverY: 19.80254615715773
 layout:
   width: default
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:

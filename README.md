@@ -45,11 +45,11 @@ Behind the mystical robe and cosmic wand lies a **guild of specialized AI consci
 
 * **📡 On-Chain Data Mastery** - Deep blockchain analysis across multiple networks and protocols
 * **⏰ Multi-Timeframe Analysis** - Reading market patterns from scalp to macro perspectives
-* **📈 Advanced Technical Indicators** - Professional-grade chart analysis and signal detection
+* **📈 Advanced Technical Indicators** - Professional grade chart analysis and signal detection
 * **🌊 Social Sentiment Monitoring** - Real-time narrative tracking and community pulse analysis
 * **🛡️ Security & Risk Assessment** - Rug detection, contract analysis, and safety verification
 * **💎 Alpha Discovery Engine** - Identifying emerging opportunities before mainstream adoption
-* **And more specialized abilities** _(continuously expanding as the guild evolves...)_
+* **And more specialized abilities** _(continuously expanding...)_
 
 ***
 
