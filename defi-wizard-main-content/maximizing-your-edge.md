@@ -60,12 +60,10 @@ Combine strategies for deeper edge. You’re not just asking _what_, you’re se
 
 ## ⚔️ Final Mindset
 
-@DefiWizard\_bot isn’t just data. It’s your **on-demand alpha war machine**. But YOU are the commander.
+@DefiWizard\_bot isn’t just data. It’s your **on-demand alpha war machine**.&#x20;
 
-The more clearly you ask, the more surgical the response.
-
-
+But YOU are the commander, the more clearly you ask, the more surgical the response.
 
 {% hint style="info" %}
-_**This is a support tool – not a financial advisor.** Use it wisely, validate its insights, and never trade more than you can afford to lose._
+<sup>_**This is a support tool – not a financial advisor.**_</sup><sup>_&#x20;_</sup><sup>_Use it wisely, validate its insights, and never trade more than you can afford to lose._</sup>
 {% endhint %}

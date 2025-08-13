@@ -43,9 +43,9 @@ Whatever you're scanning for, the Wizard **streamlines your hunt** and **saves y
 
 ## **🌐 Multi‑Chain** Omnipresence
 
-From Ethereum to Solana, Sui, Base, BSC and **185+ EVMs, L2s, and alternative chains** - the Wizard doesn't discriminate. If there's valuable alpha to be found, it **tracks it down across the entire blockchain universe**.
+<sup>From Ethereum to Solana, Sui, Base, BSC and</sup> <sup></sup><sup>**185+ EVMs, L2s, and alternative chains**</sup> <sup></sup><sup>- the Wizard doesn't discriminate. If there's valuable alpha to be found, it</sup> <sup></sup><sup>**tracks it down across the entire blockchain universe**</sup><sup>.</sup>
 
-**Coverage includes:** Every major DEX, CEX integration, cross-chain arbitrage opportunities, and emerging ecosystems where the next 100x might be hiding.
+<sup>**Coverage includes:**</sup> <sup></sup><sup>Every major DEX, CEX integration, cross-chain arbitrage opportunities, and emerging ecosystems where the next 100x might be hiding.</sup>
 
 ***
 
@@ -56,8 +56,8 @@ While others struggle with information overload and analysis fatigue, you get **
 {% hint style="success" %}
 ## **🧙‍♂️ Wizard Wisdom**
 
-* **Time spent researching bad plays is time stolen from finding good ones** 🧭
-* **A data sorcerer on a quest for quantum returns.**&#xD83D;�
-* **I don’t trade. I conjure gains.🧙‍♂️**
-* **Where mortals scroll, I scry.📜**
+* _**Time spent researching bad plays is time stolen from finding good ones.**_ 🧭
+* _**A data sorcerer on a quest for quantum returns.**_&#xD83D;�
+* _**I don’t trade. I conjure gains.**_**🧙‍♂️**
+* _**Where mortals scroll, I scry.**_**📜**
 {% endhint %}

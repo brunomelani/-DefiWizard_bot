@@ -17,5 +17,5 @@ By using this system, you acknowledge and agree that:
 * The developers and maintainers of this platform **assume no liability** for any loss or damage resulting from your use of the tool or reliance on its output.
 
 {% hint style="danger" %}
-_**This is a support tool – not a financial advisor.** Use it wisely, validate its insights and never trade more than you can afford to lose._
+<sup>_**This is a support tool – not a financial advisor.**_</sup><sup>_&#x20;_</sup><sup>_Use it wisely, validate its insights and never trade more than you can afford to lose._</sup>
 {% endhint %}

@@ -27,22 +27,18 @@ layout:
 
 ## 🏆 Major Networks:
 
-* Ethereum&#x20;
-* Solana
-* Base
-* BNB Chain
-* Sui Network
+### <sup>Ethereum | Solana | Base | BNB | Sui Network</sup>
 
 ## 🚀 **Emerging Networks:**&#x20;
 
-Bittensor, Pulsechain, Optimism, Avalanche, Aptos, Tron, TON, Near, Mantle, Unichain, Blast, XRPL, HyperEVM, Merlin Chain, Berachain, Fraxtal, World Chain, , Chiliz Chain, Bitlayer, Sei V2, Movement, ZetaChain, Hyperliquid.
+### <sup>Bittensor  |  Pulsechain  |  Optimism  |  Avalanche  |  Aptos  |  Tron  |  TON  |  Near  |  Mantle  |  Unichain  |  Blast  |  XRPL  |  HyperEVM  |  Merlin Chain  |  Berachain  |  Fraxtal  |  World Chain  |  Chiliz Chain  |  Bitlayer  |  Sei V2  |  Movement  |  ZetaChain  |  Hyperliquid.</sup>
 
 ## 🔗 **Layer-2 & Sidechains:**&#x20;
 
-Arbitrum, Polygon POS, Manta Pacific, Scroll, Linea, ZkSync, Starknet, Immutable zkEVM, Mode.
+### <sup>Arbitrum | Polygon POS | Manta Pacific | Scrol | Linea | ZkSync | Starknet | Immutable zkEVM | Mode.</sup>
 
 ## ➕ **Additional Networks:**&#x20;
 
-Cardano, Sonic, Cronos, Degen Chain,  Mantle, Moonbeam, Moonriver, CELO, Filecoin, Hedera Hashgraph, IOTEX, Fantom, Shibarium, Dogechain, Harmony, Goat, DuckChain, ApeChain, Sei Network Ethereum Classic, EthereumPOW, Flare and 150+ others.
+### <sup>Cardano, Sonic, Cronos, Degen Chain,  Mantle, Moonbeam, Moonriver, CELO, Filecoin, Hedera Hashgraph, IOTEX, Fantom, Shibarium, Dogechain, Harmony, Goat, DuckChain, ApeChain, Sei Network Ethereum Classic, EthereumPOW, Flare and 150+ others.</sup>
 
-This solid guild of wizards 🧙‍♂️ allows this bot to validate any existing token and fetch historic and real-time data across diverse ecosystems, ensuring @DefiWizard\_bot delivers precise insights wherever your tokens reside.&#x20;
+<sup>This solid guild of wizards 🧙‍♂️ allows this bot to validate any existing token and fetch historic and real-time data across diverse ecosystems, ensuring @DefiWizard\_bot delivers precise insights wherever your tokens reside.</sup>&#x20;
