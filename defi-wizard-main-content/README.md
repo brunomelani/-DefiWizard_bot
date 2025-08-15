@@ -1,7 +1,24 @@
 ---
 description: 📖 Table of Contents 🧙‍♂️ @DefiWizard_bot
-cover: ../.gitbook/assets/ChatGPT Image Aug 11, 2025, 09_56_04 PM.png
-coverY: 129.35220764663643
+cover: ../.gitbook/assets/GyJGPGtaEAMKVD0.jpeg
+coverY: -107.3250442567453
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🧙‍♂️ Defi Wizard Main Content

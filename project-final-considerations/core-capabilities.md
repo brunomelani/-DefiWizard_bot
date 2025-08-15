@@ -18,7 +18,7 @@ layout:
 
 # ⚙️ Core Capabilities
 
-<figure><img src="../.gitbook/assets/Defi-Wizard-prototype.png" alt=""><figcaption><p>Defi Wizard Agent Swarm v1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Defi-Wizard-prototype.png" alt=""><figcaption><p>Defi Wizard Agent Swarm V.0.1</p></figcaption></figure>
 
 {% hint style="success" %}
 #### 🧙‍♂️ Orchestrated Intelligence

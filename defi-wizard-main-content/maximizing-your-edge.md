@@ -3,6 +3,25 @@ description: >-
   @DefiWizard_bot isn’t just another Tg scanner, it’s your tactical command
   center in the middle of  DeFi PVP battlefield. If you want to win, you’ve got
   to know how to prompt it like a pro.
+cover: ../.gitbook/assets/GyMnfTdW4AAXMyC.jpeg
+coverY: 4.686845108519073
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 📝 Maximizing Your Edge

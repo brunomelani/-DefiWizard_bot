@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/image.png
-coverY: -134.52319582849177
+cover: ../.gitbook/assets/GyAGHW_WMAAoutl.jpeg
+coverY: -5.207553322888913
 layout:
   width: default
   cover:
