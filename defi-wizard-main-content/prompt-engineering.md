@@ -1,8 +1,8 @@
 ---
 description: >-
-  @DefiWizard_bot offers infinite depth, but only to those who know how to
-  access it. Learn to graduate from basic queries to advanced guild deployment,
-  and discover why some traders get legendary alpha
+  @DefiWizard_bot offers infinite depth, especially to those who know how to
+  access it. Evolve from basic queries to advanced guild deployment, and
+  discover why some traders get legendary alpha.
 cover: ../.gitbook/assets/GyMnfTdW4AAXMyC.jpeg
 coverY: 4.686845108519073
 layout:
@@ -32,7 +32,7 @@ layout:
 
 Your prompts determine which guild members activate, how deep they dig, and what intelligence they prioritize. Master this, and you're not just using a bot, but **commanding an elite intelligence network**.
 
-## 🧙‍♂️ Core Prompt Types
+### 🧙‍♂️ Core Prompt Types
 
 Your default "generic" starting point. Gives a **balanced overview** across fundamentals, TA, and sentiment in one go.
 
@@ -74,7 +74,7 @@ Your default "generic" starting point. Gives a **balanced overview** across fund
 
 ***
 
-## **Discovery Prompts:**
+### 🔭 **Discovery Prompts:**
 
 **Narrative Digger:**
 
@@ -82,9 +82,9 @@ Your default "generic" starting point. Gives a **balanced overview** across fund
 
 ***
 
-### **⚠️ Common Mistakes to Avoid**
+### **⚠️ Common Mistakes to Avoid:**
 
-#### **❌ Vague Queries and Single-Dimension Thinking:**
+**❌ Vague Queries:**
 
 "Is this a good buy?"
 
