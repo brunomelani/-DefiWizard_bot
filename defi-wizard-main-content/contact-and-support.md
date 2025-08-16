@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/GyAGHW_WMAAoutl.jpeg
-coverY: -5.207553322888913
+cover: ../.gitbook/assets/GyQ5BNDWAAEjyRB.jpeg
+coverY: -236.73571030913416
 layout:
   width: default
   cover:
@@ -22,12 +22,10 @@ layout:
 
 # 📱 Contact & Support
 
-🧙‍♂Follow our Official  [X / Twitter](https://x.com/DefiWizard_bot) profile for updates.&#x20;
+### 🐦Follow our Official [X / Twitter](https://x.com/DefiWizard_bot) profile for updates.&#x20;
 
-Contact [@BrunoMelani](https://t.me/BrunoMelani) directly on Telegram for any further questions.
+### 🧙‍♂Join our [Telegram community](https://t.me/+8Si2kaY_zEA4MTFl) to use the bot.&#x20;
 
-Join our [Telegram community](https://t.me/+8Si2kaY_zEA4MTFl) for updates and support, or reach out to dev for inquiries.
+### 📚 Subscribe to our [Medium](https://medium.com/@defiwizard_bot) page.&#x20;
 
-***
-
-_The cosmos has chosen its traders. Will you answer the call?_
+### 🧑‍💻Contact [@BrunoMelani](https://t.me/BrunoMelani) directly on Telegram for any further questions.

@@ -29,21 +29,21 @@ layout:
 
 ***
 
-## `📂`**`Available Data Sources`**
+## `📂`**`Data Sources`**
 
 [Explore the APIs and platforms powering the bot.](available-data-sources.md)
 
 ***
 
-## `📝Maximizing Your Edge`
+## `📝Prompt Engineering`
 
-[Find tips on crafting effective prompts to enhance query results for agents and leverage the multiple layer and angles insights Defi Wizard can provide to optimize your trading strategies.](maximizing-your-edge.md)
+[Find tips on crafting effective prompts to enhance query results for agents and leverage the multiple layer and angles insights Defi Wizard can provide to optimize your trading strategies.](prompt-engineering.md)
 
 ***
 
 ## `🫂Explore the Architecture`
 
-[Find more details about the bot’s multi-agent system for comprehensive analysis.](explore-the-architecture.md)
+[Find more details about the bot’s multi-agent system for comprehensive understanding.](explore-the-architecture.md)
 
 ***
 

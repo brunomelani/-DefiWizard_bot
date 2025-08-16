@@ -28,12 +28,12 @@ Request any analysis you need with surgical precision that no other single AI to
 
 ### 🐦 Twitter/X Agent
 
-* **Twitter profile credibility assessment**&#x20;
-* **Posts credibility assessment** (follower analysis, verification status, account age)
-* **Engagement quality metrics** (organic vs. bot interactions)
-* **Narrative evolution tracking** with viral potential scoring
-* **Community health diagnostics** and sentiment momentum analysis
-* **Coordinated campaign detection** vs. organic buzz identification
+* <sup>**Twitter profile credibility assessment**</sup>&#x20;
+* <sup>**Posts credibility assessment**</sup> <sup></sup><sup>(follower analysis, verification status, account age)</sup>
+* <sup>**Engagement quality metrics**</sup> <sup></sup><sup>(organic vs. bot interactions)</sup>
+* <sup>**Narrative evolution tracking**</sup> <sup></sup><sup>with viral potential scoring</sup>
+* <sup>**Community health diagnostics**</sup> <sup></sup><sup>and sentiment momentum analysis</sup>
+* <sup>**Coordinated campaign detection**</sup> <sup></sup><sup>vs. organic buzz identification</sup>
 
 ### 🛡️ Security & Risk Assessment
 

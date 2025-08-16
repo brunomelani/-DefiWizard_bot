@@ -6,7 +6,7 @@
 * [🧙‍♂️ Defi Wizard Main Content](defi-wizard-main-content/README.md)
   * [🤹‍♀️ Supported Networks](defi-wizard-main-content/supported-networks.md)
   * [🗃️ Available Data Sources](defi-wizard-main-content/available-data-sources.md)
-  * [📝 Maximizing Your Edge](defi-wizard-main-content/maximizing-your-edge.md)
+  * [📝 Prompt Engineering](defi-wizard-main-content/prompt-engineering.md)
   * [🫂 Explore the Architecture](defi-wizard-main-content/explore-the-architecture.md)
   * [🚀 Beta Phase](defi-wizard-main-content/beta-phase.md)
   * [🥇 Subscription Tiers](defi-wizard-main-content/subscription-tiers.md)

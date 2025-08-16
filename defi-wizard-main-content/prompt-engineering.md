@@ -24,17 +24,19 @@ layout:
     visible: true
 ---
 
-# 📝 Maximizing Your Edge
+# 📝 Prompt Engineering
 
-***
+## What is prompt engineering and why does it matter?
+
+Prompt engineering is the process of crafting effective instructions (prompts) for generative AI models to produce desired outputs. It's a blend of art and science, requiring an understanding of how AI models interpret and respond to different types of prompts. By carefully designing prompts, you can guide the AI to generate accurate, relevant, and creative content.&#x20;
 
 ## 🧙‍♂️ Core Prompt Types
 
-Here’s what you can ask — and how to get high-value responses:
+Here’s what you can ask — and full guide in how to get high-value responses and maximize your edge:
 
 **`analyze <($ticker + network) or (contract_address)>`**
 
-Your default "generic" starting point. Gives a **balanced overview** across fundamentals, TA, and sentiment in one go.&#x20;
+Your default "generic" starting point. Gives a **balanced overview** across fundamentals, TA, and sentiment in one go.
 
 > **📌 TL;DR Prompt Formula**\
 > `Analyze <token> on <chain> with focus on [TA / sentiment / narrative]. Add timeframe (optional) + (whatever else you might want).`
@@ -79,9 +81,7 @@ Combine strategies for deeper edge. You’re not just asking _what_, you’re se
 
 ## ⚔️ Final Mindset
 
-@DefiWizard\_bot isn’t just data. It’s your **on-demand alpha war machine**.&#x20;
-
-But YOU are the commander, the more clearly you ask, the more surgical the response.
+With @DefiWizard\_bot sky is the limit and you are the pilot.
 
 {% hint style="info" %}
 <sup>_**This is a support tool – not a financial advisor.**_</sup><sup>_&#x20;_</sup><sup>_Use it wisely, validate its insights, and never trade more than you can afford to lose._</sup>
