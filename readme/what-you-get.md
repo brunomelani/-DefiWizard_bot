@@ -1,7 +1,7 @@
 ---
 description: Using @DefiWizard_bot 🧙‍♂️
-cover: ../.gitbook/assets/defiwizard_bot.png
-coverY: 127.54577475449874
+cover: ../.gitbook/assets/GyMJZ9xW0AAHNLN.jpeg
+coverY: -76.22065485923981
 ---
 
 # 🧞 What You Get?

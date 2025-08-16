@@ -58,6 +58,6 @@ These integrations will provide **seamless subscription management** and reduce 
 {% hint style="danger" %}
 _**DO NOT fall for scammers or impersonators**_&#x20;
 
-– **Never** send tokens to anyone claiming to be part of the project unless you’ve verified it's the real [@BrunoMelani](https://t.me/BrunoMelani).\
+– **Never** send tokens to anyone claiming to be part of the project unless you’ve verified with [@BrunoMelani](https://t.me/BrunoMelani).\
 – The team is **not responsible** for funds sent to incorrect or impersonated addresses.
 {% endhint %}
