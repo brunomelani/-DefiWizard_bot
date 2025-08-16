@@ -1,8 +1,8 @@
 ---
 description: >-
-  @DefiWizard_bot isn’t just another Tg scanner, it’s your tactical command
-  center in the middle of  DeFi PVP battlefield. If you want to win, you’ve got
-  to know how to prompt it like a pro.
+  @DefiWizard_bot offers infinite depth, but only to those who know how to
+  access it. Learn to graduate from basic queries to advanced guild deployment,
+  and discover why some traders get legendary alpha
 cover: ../.gitbook/assets/GyMnfTdW4AAXMyC.jpeg
 coverY: 4.686845108519073
 layout:
