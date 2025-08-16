@@ -1,10 +1,10 @@
 ---
 description: >-
-  @DefiWizard_bot is currently in Beta. You can try it out with 5 daily usage
-  credits, completely free. It's your chance to experience the power of our AI
-  agent swarm before full launch.
-cover: ../.gitbook/assets/GyKtFHlXYAAaORl.jpeg
-coverY: -99.11753057957692
+  The Wizard is currently in Beta. You can try it out in our community group
+  with 5 daily usage credits, completely free. It's your chance to experience
+  the power of our AI agents before full launch.
+cover: ../.gitbook/assets/GyapLdpXIAA33_H.jpeg
+coverY: 84.51873633738994
 layout:
   width: default
   cover:

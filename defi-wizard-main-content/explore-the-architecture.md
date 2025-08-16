@@ -127,32 +127,3 @@ Retries and fallback logic for failed API calls ensures response consistency.
 **📉 Rate Limit Optimization**\
 Smart request pacing and batching keep all agents within their provider limits
 {% endhint %}
-
-***
-
-## 🧵 Example Workflow:
-
-{% hint style="success" %}
-## **User:** “Analyze $WIF”
-
-1.  **Frontliner:**\
-    Resolves `$WIF`, confirms **Solana**, fetches:
-
-    * Market Cap: $20M
-    * 24h Volume: $5M
-    * Creation Date: 2024‑01‑15
-    * Socials & Chain Metadata
-
-
-2.  **@DefiWizard\_bot:**\
-    Delegates tasks to sub-agents:
-
-    * **CoinGecko MCP:** CEX price/volume trends
-    * **GeckoTerminal:** DEX pools + liquidity
-    * **TA Agent Master:** 1h and 4h technical analysis
-    * **Twitter X Agent:** Sentiment and community quality check
-
-
-3. **Response Delivered to Telegram:**\
-   A fully formatted HTML message, with clean market positioning and alpha insights — all orchestrated in under 10 seconds.
-{% endhint %}

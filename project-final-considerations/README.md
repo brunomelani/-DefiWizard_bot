@@ -3,8 +3,8 @@ description: >-
   🧙‍♂️ @DefiWizard_bot isn’t just like any other TG scan bot, it’s a dynamic
   ongoing project, built by a degen for degens, the vision is to became every
   DeFi trenches trader best friend.
-cover: ../.gitbook/assets/defi-wizard_bot_banner.png
-coverY: 69.96936851173503
+cover: ../.gitbook/assets/Gv-UN1nWIAAh38C.jpeg
+coverY: 49.10916672927902
 layout:
   width: default
   cover:
