@@ -1,5 +1,5 @@
 ---
-description: 📖 Table of Contents 🧙‍♂️ @DefiWizard_bot
+description: 📖 Table of Contents @DefiWizard_bot
 cover: ../.gitbook/assets/GyJGPGtaEAMKVD0.jpeg
 coverY: -107.3250442567453
 layout:

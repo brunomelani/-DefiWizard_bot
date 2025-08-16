@@ -1,7 +1,7 @@
 ---
 description: >-
-  @DefiWizard_bot it's a interdimensional oracle built to serve those who dare
-  to navigate the complexities of on-chain trading and DeFi markets.
+  @DefiWizard_bot Is a Crypto Oracle built for traders to deliver
+  institutional-grade intelligence to those who refuse to be exit liquidity.
 cover: .gitbook/assets/defi-wizard_bot_banner.png
 coverY: 67.90996142283569
 layout:
@@ -27,6 +27,6 @@ layout:
 
 [🧙‍♂](https://t.me/DefiWizard_Bot) **The architecture** was **meticulously crafted** by a degen trader for others degen traders who understand that ascending from the trenches requires more than individual human capabilities.&#x20;
 
-[🧙‍♂](https://t.me/DefiWizard_Bot)  Whether you're a **lone wolf hunter** of **utility o**r meme coins in the shadows or commanding a **crypto quest guild with you** with your bros, the Wizard transcends the limitations of the average telegram crypto bots out there.
+[🧙‍♂](https://t.me/DefiWizard_Bot)  Whether you're a lone wolf stalking utility gems and meme coins in the shadows, or commanding a crypto squad with your bros, the Wizard transcends the limitations of basic telegram bots and single-purpose AI tools.
 
-[🧙‍♂](https://t.me/DefiWizard_Bot) **The Wizard** is the leader of a coordinated network that achieves what no individual agent or AI Chatbot like GPT or Claude alone could: **process simultaneously multiple layers of massive market data streams**, **filter through noise**, and **surface the alpha that actually matters** for you in one go.
+[🧙‍♂](https://t.me/DefiWizard_Bot) **The Wizard** is the leader of a coordinated network that achieves what no individual agent or AI Chatbot like GPT or Claude alone could: **simultaneously process multiple layers of massive market data streams**, **filter through noise**, and **surface the alpha that actually matters** for you in one go.
