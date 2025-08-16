@@ -25,7 +25,7 @@ layout:
 
 # 🧙‍♂️ Welcome to Defi Wizard Realm
 
-## 👑 **Meet Your New Market Overlord**
+## 👑 **Your New Ultimate Trade Companion**
 
 [🧙‍♂**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot) was **meticulously crafted** by a degen trader for others after understanding that to ascend from the trenches requires much more then individual human capabilities alone.&#x20;
 
