@@ -51,7 +51,14 @@ layout:
 
 <h3 align="center"><strong>⚔️ Choose Your Reality</strong></h3>
 
-<table><thead><tr><th width="373.8087158203125" align="center">🔴 The Old Way </th><th align="center">🟢 The Wizard's Way</th></tr></thead><tbody><tr><td align="center">Up to hours of manual research per token</td><td align="center">Complete institutional analysis in seconds</td></tr><tr><td align="center">Juggling 5+ different platforms</td><td align="center">All intelligence unified in one query</td></tr><tr><td align="center">Missing opportunities while analyzing</td><td align="center">Catching opportunities with perfect timing</td></tr><tr><td align="center">Getting rugged due to rushed decisions</td><td align="center">Risk assessment that keeps you safe</td></tr><tr><td align="center">Burning out from information overload</td><td align="center">Energy preserved for actual trading</td></tr><tr><td align="center">Watching others hit 10x while you're still researching</td><td align="center"><strong>Being the one who hits 10x while others research</strong></td></tr></tbody></table>
+|                     🔴 The Old Way                     |                  🟢 The Wizard's Way                 |
+| :----------------------------------------------------: | :--------------------------------------------------: |
+|        Up to hours of manual research per token        |      Complete institutional analysis in seconds      |
+|             Juggling 5+ different platforms            |         All intelligence unified in one query        |
+|          Missing opportunities while analyzing         |      Catching opportunities with perfect timing      |
+|         Getting rugged due to rushed decisions         |          Risk assessment that keeps you safe         |
+|          Burning out from information overload         |          Energy preserved for actual trading         |
+| Watching others hit 10x while you're still researching | **Being the one who hits 10x while others research** |
 
 {% hint style="success" %}
 Welcome to the future of DeFi intelligence. 🧙‍♂️✨
