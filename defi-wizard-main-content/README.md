@@ -61,7 +61,7 @@ layout:
 
 ## `📱Contact & Support`
 
-[Access contact details for support and feedback.](contact-and-support.md)
+[Access contact details for support and feedback.](official-links.md)
 
 ***
 

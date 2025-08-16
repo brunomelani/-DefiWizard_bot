@@ -1,5 +1,5 @@
 ---
-description: '@DefiWizard_bot Official Links:'
+description: '@DefiWizard_bot Contact & Support Links:'
 cover: ../.gitbook/assets/GyQ5BNDWAAEjyRB.jpeg
 coverY: -236.73571030913416
 layout:
@@ -21,9 +21,9 @@ layout:
     visible: true
 ---
 
-# 📱 Contact & Support
+# 🌐 Official Links
 
-**🐦 Follow our Official** [**X / Twitter**](https://x.com/DefiWizard_bot) **profile for updates.**&#x20;
+**🐦 Follow our Official** [**X / Twitter**](https://x.com/DefiWizard_bot)  **for updates.**&#x20;
 
 **🧙‍♂ Join our** [**Telegram community**](https://t.me/+8Si2kaY_zEA4MTFl) **to use the bot.**&#x20;
 

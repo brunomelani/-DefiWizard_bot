@@ -36,5 +36,5 @@ layout:
 {% hint style="danger" %}
 _We do not have a token launched but this project could likely became token gated._&#x20;
 
-_Follow our official_ [_Links_](contact-and-support.md) _to be the first one to know when it happens!_&#x20;
+_Follow our official_ [_Links_](official-links.md) _to be the first one to know when it happens!_&#x20;
 {% endhint %}
