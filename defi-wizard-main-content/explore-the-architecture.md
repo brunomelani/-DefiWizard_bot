@@ -17,11 +17,13 @@ layout:
 
 # 🫂 Explore the Architecture
 
-🧙‍♂️ For the ones keen to understand deeper what happens under the hood... The core of **Defi Wizard** is a highly modular **agent swarm architecture**, where each component plays a specialized role. Powered by **n8n**, this system is orchestrated to maximize data quality, minimize latency, and deliver sharp, multi-layered DeFi insights within seconds.
+<sup>🧙‍♂️ For the ones keen to understand deeper what happens under the hood... The core of</sup> <sup></sup><sup>**Defi Wizard**</sup> <sup></sup><sup>is a highly modular</sup> <sup></sup><sup>**agent swarm architecture**</sup><sup>, where each component plays a specialized role. Powered by</sup> <sup></sup><sup>**n8n**</sup><sup>, this system is orchestrated to maximize data quality, minimize latency, and deliver sharp, multi-layered DeFi insights within seconds.</sup>
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Defi Wizard Agent Swarm</p></figcaption></figure>
 
 {% include "../.gitbook/includes/defiwizard-engine.md" %}
+
+
 
 ***
 
@@ -106,8 +108,8 @@ Each sub-agent focuses on a specific data domain and executes tasks in parallel
 {% hint style="success" %}
 #### 🔮 Future Sub-Agents (Planned)
 
-* **🛡 Token Security Specialist** – Automated contract auditing via **GoPlus API**
-* **🌍 Social Sentiment Analyst** – Cross-platform narrative detection (Discord, Telegram, YouTube)
+* **🛡 Token Security Specialist** – Automated contract auditing&#x20;
+* **🌍 Social Sentiment Analyst** – Cross-platform narrative detection&#x20;
 {% endhint %}
 
 ***
