@@ -9,17 +9,17 @@ coverY: 129.1340578574997
 
 # ❓ Why use Defi-Wizard?
 
-## What Makes the Wizard Worthy?
+## 🤑What Makes The Wizard Worthy?
 
-Trying to keep up with **thousands of daily new tokens**, **hundreds of blockchains**, and **an endless flood of narratives** every day is **pure mental warfare.**
+Trying to keep up with **thousands of daily new tokens**, **hundreds of blockchains**, and **an endless flood of narratives** every day is exhaustiv&#x65;**.**
 
 **The Reality Check:**
 
-* Doing proper due diligence on even **5 tokens daily** is already exhausting
+* Doing proper due diligence on even **5 tokens daily** is already painful.
 * **Multi-timeframe technical analysis** per token take time, and emotions get on the way.
-* **Social sentiment analysis** requires monitoring dozens of profiles and community channels
-* **Security audits** and contract analysis demand specialized expertise most traders lack
-* **Liquidity depth analysis**  is time-consuming and complex
+* **Social sentiment analysis** requires monitoring dozens of profiles and community channels.
+* **Security audits** and contract analysis demand specialized expertise most traders lack.
+* **Liquidity depth analysis**  is time-consuming and complex.
 
 The deeper you dig, the more time it consumes, and eventually you hit that dreaded **analysis paralysis** wall. This overwhelming data flood leads even experienced traders to **cut corners** and rush into plays, consequently making poor investment choices or missing solid opportunities due to lack of proper context.
 
@@ -30,22 +30,6 @@ The deeper you dig, the more time it consumes, and eventually you hit that dread
 With a single query, the Wizard filters through the noise and cuts straight to what matters surfacing critical insights, risk factors, and potential “alpha” **before you even decide if it’s worth your attention**.
 
 Whatever you're scanning for, the Wizard **streamlines your hunt** and **saves your energy**, so you can trade smarter and enjoy the process of hunting gems again.
-
-***
-
-## ⚡ Integration & Accessibility
-
-* **Natural language queries** - ask questions like you would to a human analyst
-* **Instant analysis** with no complex commands or syntax required
-* **Group chat compatibility** for team decision-making
-
-***
-
-## **🌐 Multi‑Chain** Omnipresence
-
-From Ethereum to Solana, Sui, Base, BSC and **185+ EVMs, L2s, and alternative chains. Coverage includes:** Every major DEX, CEX integration, cross-chain arbitrage opportunities, and emerging ecosystems where the next 100x might be hiding.
-
-The Wizard doesn't ~~discriminate~~.&#x20;
 
 ***
 

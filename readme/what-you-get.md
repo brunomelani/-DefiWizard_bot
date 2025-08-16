@@ -1,12 +1,28 @@
 ---
-description: Using @DefiWizard_bot 🧙‍♂️
 cover: ../.gitbook/assets/GyMJZ9xW0AAHNLN.jpeg
 coverY: -76.22065485923981
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🧞 What You Get?
 
-## **🧠 On‑Demand Custom analysis**
+### **🧠 On‑Demand Custom analysis**
 
 Request any analysis you need with surgical precision that no other single AI tool can match.
 
@@ -42,6 +58,22 @@ Request any analysis you need with surgical precision that no other single AI to
 ### **📊 Narrative  Intelligence**
 
 * <sup>**Narrative Positioning**</sup> <sup></sup><sup>- Where tokens fit in current market themes and trending sectors</sup>
+
+***
+
+### ⚡ Integration & Accessibility
+
+* <sup>**Natural language queries**</sup> <sup></sup><sup>- ask questions like you would to a human analyst</sup>
+* <sup>**Instant analysis**</sup> <sup></sup><sup>with no complex commands or syntax required</sup>
+* <sup>**Group chat compatibility**</sup> <sup></sup><sup>for team decision-making</sup>
+
+***
+
+### **🌐 Multi‑Chain** Omnipresence
+
+<sup>From Ethereum to Solana, Sui, Base, BSC and</sup> <sup></sup><sup>**185+ EVMs, L2s, and alternative chains. Coverage includes:**</sup> <sup></sup><sup>Every major DEX, CEX integration, cross-chain arbitrage opportunities, and emerging ecosystems where the next 100x might be hiding.</sup>
+
+<sup>The Wizard doesn't</sup> <sup></sup><sup>~~discriminate~~</sup><sup>.</sup>&#x20;
 
 {% hint style="info" %}
 Works for **established blue-chips, emerging DeFi protocols, and fresh DEX launches** - from Bitcoin to the latest token created few minutes ago.
