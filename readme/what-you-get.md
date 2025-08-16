@@ -81,6 +81,3 @@ layout:
 Works for **established blue-chips, emerging DeFi protocols, and fresh DEX launches** - from Bitcoin to the latest token created few minutes ago.
 {% endhint %}
 
-***
-
-<sub>**The Bottom Line: While others drown in information overload, you get crystal clear intelligence delivered in seconds. The Wizard doesn't just analyze markets, it thinks like an institutional research team and delivers insights that transform data chaos into profitable opportunities.**</sub>
