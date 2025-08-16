@@ -26,21 +26,18 @@ layout:
 
 # 📝 Prompt Engineering
 
-## What is prompt engineering and why does it matter?
+### 🎯 What is Prompt Engineering and Why Does It Matter?
 
-Prompt engineering is the process of crafting effective instructions (prompts) for generative AI models to produce desired outputs. It's a blend of art and science, requiring an understanding of how AI models interpret and respond to different types of prompts. By carefully designing prompts, you can guide the AI to generate accurate, relevant, and creative content.&#x20;
+**Prompt engineering** isn't just asking questions — it's **tactical guild deployment**. The DeFi Wizard houses multiple AI specialists, each with unique capabilities.
+
+Your prompts determine which guild members activate, how deep they dig, and what intelligence they prioritize. Master this, and you're not just using a bot, but **commanding an elite intelligence network**.
 
 ## 🧙‍♂️ Core Prompt Types
 
-Here’s what you can ask — and full guide in how to get high-value responses and maximize your edge:
+Your default "generic" starting point. Gives a **balanced overview** across fundamentals, TA, and sentiment in one go.
 
 **`analyze <($ticker + network) or (contract_address)>`**
 
-Your default "generic" starting point. Gives a **balanced overview** across fundamentals, TA, and sentiment in one go.
-
-> **📌 TL;DR Prompt Formula**\
-> `Analyze <token> on <chain> with focus on [TA / sentiment / narrative]. Add timeframe (optional) + (whatever else you might want).`
->
 > Example:\
 > `Analyze $DEGEN on Base, focus on TA (1h + 4h), include Twitter alpha data.`\
 > `Analyze $TOSHI on Base`\
@@ -48,19 +45,7 @@ Your default "generic" starting point. Gives a **balanced overview** across fund
 
 ***
 
-## 🧩 Prompt Stacking
-
-Combine strategies for deeper edge. You’re not just asking _what_, you’re setting **intent**.
-
-> `Check 0x123… but focus only on strong TA setups in the last 24h.`\
-> → Tactical targeting of recent entries.
-
-> `Give me deep social sentiment on 0x123…`   \
-> → Reputation sniffing + alpha filtration.
-
-***
-
-## 🧠 Prompt Best Practices
+### 🧠 Prompt Best Practices
 
 | What To Do            | Why It Matters                                                             |
 | --------------------- | -------------------------------------------------------------------------- |
@@ -68,6 +53,24 @@ Combine strategies for deeper edge. You’re not just asking _what_, you’re se
 | Combine Contexts      | Merge TA + sentiment + volume = smarter signals.                           |
 | Explore Social Layers | Ask about Twitter Communities or member behavior stats, last active posts. |
 | Push the Bot          | It’s multi-agent — stack insights and expect a judgment call.              |
+
+## 😎**The Professional Formula:**
+
+`[ACTION] + [TARGET] + [CONTEXT/FOCUS] + [DESIRED TIMEFRAME] + [SPECIFIC REQUIREMENTS]`
+
+### **+ Intelligence Extraction Modifiers:**
+
+**Confidence Ratings:**
+
+`Add confidence levels (1-10) for each analysis component`
+
+**Risk Assessment:**
+
+`Include specific risk factors with severity ratings`
+
+**Actionable Intelligence:**
+
+`Provide specific entry/exit levels with stop-loss recommendations`
 
 ***
 
@@ -79,9 +82,33 @@ Combine strategies for deeper edge. You’re not just asking _what_, you’re se
 
 ***
 
-## ⚔️ Final Mindset
+### **⚠️ Common Mistakes to Avoid**
 
-With @DefiWizard\_bot sky is the limit and you are the pilot.
+#### **❌ Vague Queries and Single-Dimension Thinking:**
+
+"Is this a good buy?"
+
+**✅ Multi-Dimensional Intelligence:**
+
+"Investment thesis for $TOKEN - combine technical setup, fundamental strength, social momentum, and risk assessment with specific position sizing recommendations"
+
+#### **❌ Generic Timeframes:**
+
+"Price prediction"
+
+**✅ Actionable Timeframes:**
+
+"Next 24-48h outlook with specific entry/exit triggers and invalidation levels"
+
+***
+
+### **⚔️ Final Mindset**
+
+**Remember:** You're not just asking questions to The Wizard, you're **commanding an elite intelligence network**. The guild responds to the sophistication of your requests.
+
+**The guild serves those who command with precision, reward those who think strategically, and reveal their deepest intelligence to those who demonstrate mastery.**
+
+With @DefiWizard\_bot, the sky is the limit and you are the commander. **Deploy wisely.**
 
 {% hint style="info" %}
 <sup>_**This is a support tool – not a financial advisor.**_</sup><sup>_&#x20;_</sup><sup>_Use it wisely, validate its insights, and never trade more than you can afford to lose._</sup>
