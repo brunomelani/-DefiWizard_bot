@@ -29,4 +29,4 @@ layout:
 
 [🧙‍♂](https://t.me/DefiWizard_Bot)  Whether you're a lone wolf stalking utility gems and meme coins in the shadows, or commanding a crypto squad with your bros, the Wizard transcends the limitations of basic telegram bots and single-purpose AI tools.
 
-[🧙‍♂](https://t.me/DefiWizard_Bot) **The Wizard** is the leader of a coordinated network that achieves what no individual agent or AI Chatbot like GPT or Claude alone could: **simultaneously process multiple layers of massive market data streams**, **filter through noise**, and **surface the alpha that actually matters** for you in one go.
+[🧙‍♂](https://t.me/DefiWizard_Bot) **The Wizard** is the leader of a coordinated network that achieves what no individual agent or AI Chatbots like GPT or Claude alone could: **simultaneously process multiple layers of massive market data streams**, **filter through noise**, and **surface the alpha that actually matters** for you in one go.
