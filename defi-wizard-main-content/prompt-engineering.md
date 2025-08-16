@@ -54,11 +54,11 @@ Your default "generic" starting point. Gives a **balanced overview** across fund
 | Explore Social Layers | Ask about Twitter Communities or member behavior stats, last active posts. |
 | Push the Bot          | It’s multi-agent — stack insights and expect a judgment call.              |
 
-## 😎**The Professional Formula:**
+### 💎 **The Professional Formula:**
 
 `[ACTION] + [TARGET] + [CONTEXT/FOCUS] + [DESIRED TIMEFRAME] + [SPECIFIC REQUIREMENTS]`
 
-### **+ Intelligence Extraction Modifiers:**
+### ➕ **Intelligence Extraction Modifiers:**
 
 **Confidence Ratings:**
 
