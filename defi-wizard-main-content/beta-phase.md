@@ -37,7 +37,7 @@ This trial system helps prevent abuse and ensures fair usage of infrastructure
 ## **💳 Payment Methods**
 
 **During Beta:**\
-To upgrade and extend daily usage during this period beyond trial credit, send direct token transfers to the **developer wallet**. Once payment is confirmed, you’ll be manually added to the **Premium** access list.
+To upgrade and extend daily usage during this period beyond trial credit, will be done sending crypto transfers to the **developer wallet**. Once payment is confirmed, you’ll be manually added to the **Premium** access list.
 
 ***
 
