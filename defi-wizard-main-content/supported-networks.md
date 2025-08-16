@@ -1,9 +1,9 @@
 ---
 description: >-
-  @DefiWizard_bot supports over 185 blockchain networks, ensuring comprehensive
-  coverage across an infinity of DeFi ecosystem.
+  Over 185 networks, ensuring comprehensive coverage across an infinity of
+  ecosystems.
 cover: ../.gitbook/assets/GyW56bZa4AIIhZ3.jpeg
-coverY: 0
+coverY: 46.76216061137419
 layout:
   width: wide
   cover:

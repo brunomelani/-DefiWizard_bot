@@ -10,7 +10,7 @@
   * [🚀 Beta Phase](defi-wizard-main-content/beta-phase.md)
   * [🥇 Subscription Tiers](defi-wizard-main-content/subscription-tiers.md)
   * [📝 Prompt Engineering](defi-wizard-main-content/prompt-engineering.md)
-  * [🌐 Official Links](defi-wizard-main-content/official-links.md)
+  * [🌐 Official Links](defi-wizard-main-content/contact-and-support.md)
 * [🧙‍♂️ Project Final Considerations](project-final-considerations/README.md)
   * [⚖️ Legal Disclaimer](project-final-considerations/legal-disclaimer.md)
   * [⚙️ Core Capabilities](project-final-considerations/core-capabilities.md)
