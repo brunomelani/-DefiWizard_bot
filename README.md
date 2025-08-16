@@ -1,5 +1,7 @@
 ---
-description: The age of mortal trading limitations is over.
+description: >-
+  The Crypto Market Oracle that transforms exhausting research into effortless
+  intelligence.
 cover: .gitbook/assets/defi-wizard_bot_banner.png
 coverY: 67.90996142283569
 layout:
@@ -23,9 +25,9 @@ layout:
 
 # 🧙‍♂️ Welcome to Defi Wizard Realm
 
-## ⚜️ **The Trenches Have a New Guardian**
+## 👑 **Meet Your New Market Overlord**
 
-[🧙‍♂](https://t.me/DefiWizard_Bot) **The Wizard** was **meticulously crafted** by a degen trader for others traders who understand that ascending from the trenches requires more than individual human capabilities.&#x20;
+[🧙‍♂**@DefiWizard\_bot**](https://t.me/DefiWizard_Bot) was **meticulously crafted** by a degen trader for others traders who understand that ascending from the trenches requires beyond individual human capabilities.&#x20;
 
 [🧙‍♂](https://t.me/DefiWizard_Bot)  Whether you're a lone wolf stalking utility gems and meme coins in the shadows, or commanding a crypto squad with your bros, the Wizard transcends the limitations of basic telegram bots and single-purpose AI tools.
 
