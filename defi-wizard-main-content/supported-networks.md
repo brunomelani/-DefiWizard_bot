@@ -5,7 +5,7 @@ description: >-
 cover: ../.gitbook/assets/GyW56bZa4AIIhZ3.jpeg
 coverY: 46.76216061137419
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: hero
