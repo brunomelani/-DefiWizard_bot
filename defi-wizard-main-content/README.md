@@ -23,7 +23,7 @@ layout:
 
 # 🧙‍♂️ Defi Wizard Main Content
 
-## `🤹Supported Networks`
+## `⛓️Supported Networks`
 
 [Defi Wizard supports over 185+ blockchains, check all available ecosystems.](supported-networks.md)
 
@@ -32,12 +32,6 @@ layout:
 ## `📂`**`Data Sources`**
 
 [Explore the APIs and platforms powering the bot.](available-data-sources.md)
-
-***
-
-## `📝Prompt Engineering`
-
-[Find tips on crafting effective prompts to enhance query results for agents and leverage the multiple layer and angles insights Defi Wizard can provide to optimize your trading strategies.](prompt-engineering.md)
 
 ***
 
@@ -59,9 +53,15 @@ layout:
 
 ***
 
-## `📱Contact & Support`
+## `📝Prompt Engineering`
 
-[Access contact details for support and feedback.](contact-and-support.md)
+[Find tips on crafting effective prompts to enhance query results for agents and leverage the multiple layer and angles insights Defi Wizard can provide to optimize your trading strategies.](prompt-engineering.md)
+
+***
+
+## **`🧑‍💻`**`Official Links`&#x20;
+
+[Access to any project updates and channels for support and feedback.](contact-and-support.md)
 
 ***
 
